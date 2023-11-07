@@ -1,0 +1,1524 @@
+﻿category,subcategory,type,totalReceived,activeGrievancesWithoutEscalation,activeGrievancesWithEscalation,closedGrievancesWithoutEscalation,closedGrievancesWithEscalation,successfulTransferIn,successfulTransferOut,grievancesWithoutRatings,grievancesWithRatings,grievancesWithVeryGoodRating,grievancesWithGoodRating,grievancesWithOKRating,grievancesWithBadRating,grievancesWithVeryBadRating,twitterGrievances,facebookGrievances,grievancesAdditionalInfoProvided,grievancesAdditionalInfoNotProvided,grievancesWithoutFeedback,grievancesWithFeedback,grievancesWithFeedbackIssueNotResolved,grievancesWithFeedbackIssueResolved
+Airline,Aeroflot,"Ticketing, Fares & Refunds",31,NA,NA,31,31,NA,NA,27,4,3,1,NA,NA,NA,NA,NA,NA,31,27,4,3,1
+Airline,Emirates Airline,Baggage,39,NA,NA,34,34,NA,NA,36,3,2,1,NA,NA,NA,NA,NA,NA,39,35,4,3,1
+Airline,Kuwait Airways,Flight Delays,18,NA,NA,11,11,NA,NA,13,5,3,1,1,NA,NA,NA,NA,NA,18,13,5,4,1
+Airline,Qatar Airways,"Ticketing, Fares &amp; Refunds",32,NA,NA,11,11,NA,NA,29,3,2,NA,NA,1,NA,NA,NA,2,32,29,3,2,1
+Airline,Air Canada,Baggage,28,NA,NA,27,27,NA,NA,25,3,2,NA,NA,NA,1,NA,NA,3,28,25,3,2,1
+Airline,Air Costa,Other,6,NA,NA,6,6,NA,NA,4,2,2,NA,NA,NA,NA,NA,NA,NA,6,4,2,1,1
+Airline,Air Costa,"Ticketing, Fares & Refunds",131,NA,NA,131,131,NA,NA,73,58,50,2,1,4,1,NA,NA,3,131,68,63,61,2
+Airline,Air Asia Berhad (Intl Tickets),Check-in &amp; Boarding,15,NA,NA,10,10,NA,NA,14,1,NA,NA,NA,NA,1,NA,NA,NA,15,14,1,NA,1
+Airline,Air Asia Berhad (Intl Tickets),"Ticketing, Fares & Refunds",81,NA,NA,74,74,NA,NA,61,20,14,2,2,2,NA,NA,NA,1,81,61,20,19,1
+Airline,Air Asia Berhad (Intl Tickets),"Ticketing, Fares &amp; Refunds",97,NA,NA,94,94,NA,NA,90,7,7,NA,NA,NA,NA,NA,NA,1,97,87,10,8,2
+Airline,Ethiopian Airlines,"Ticketing, Fares &amp; Refunds",21,NA,NA,12,12,NA,NA,19,2,NA,1,NA,1,NA,NA,NA,1,21,19,2,1,1
+Airline,GoAir,Baggage,336,NA,NA,335,335,NA,NA,295,41,33,5,1,2,NA,4,NA,4,336,291,45,40,5
+Airline,GoAir,Check-in & Boarding,405,NA,NA,400,400,NA,NA,342,63,51,3,6,1,2,2,NA,10,405,334,71,68,3
+Airline,GoAir,Check-in &amp; Boarding,145,NA,NA,135,135,NA,NA,136,9,8,1,NA,NA,NA,NA,NA,NA,145,134,11,9,2
+Airline,GoAir,Flight Delays,1247,NA,NA,1106,1106,NA,NA,1135,112,103,3,4,NA,2,15,NA,38,1247,1110,137,134,3
+Airline,GoAir,Other,919,NA,NA,917,917,NA,NA,839,80,67,9,NA,1,3,14,NA,17,919,832,87,79,8
+Airline,GoAir,Staff / Crew Behavior,178,NA,NA,177,177,2,NA,162,16,16,NA,NA,NA,NA,6,NA,7,178,161,17,14,3
+Airline,GoAir,"Ticketing, Fares & Refunds",5313,4,NA,5303,5303,NA,NA,4685,624,510,47,21,10,36,85,2,115,5313,4661,652,601,51
+Airline,GoAir,"Ticketing, Fares &amp; Refunds",1327,NA,1,1325,1325,NA,NA,1221,105,88,8,1,1,7,NA,NA,NA,1327,1218,109,101,8
+Airline,Gulf Air,"Ticketing, Fares & Refunds",37,NA,NA,36,36,NA,NA,28,9,6,1,1,1,NA,NA,NA,3,37,28,9,8,1
+Airline,British Airways,"Ticketing, Fares & Refunds",76,1,NA,74,74,NA,NA,70,5,3,NA,1,NA,1,1,NA,1,76,71,5,4,1
+Airline,Air India,Baggage,1267,NA,NA,1266,1266,NA,NA,1121,146,115,12,9,4,6,10,NA,53,1267,1091,176,160,16
+Airline,Air India,Check-in & Boarding,1004,NA,NA,999,999,1,2,883,121,90,7,6,8,10,4,NA,43,1004,842,162,144,18
+Airline,Air India,Check-in &amp; Boarding,394,NA,NA,391,391,NA,NA,364,30,23,3,1,1,2,NA,NA,1,394,361,33,22,11
+Airline,Air India,Cleanliness,65,NA,NA,55,55,NA,NA,57,8,6,NA,1,1,NA,2,NA,2,65,55,10,8,2
+Airline,Air India,Flight Delays,2393,NA,NA,2372,2372,NA,NA,2130,263,202,36,13,8,4,12,NA,132,2393,1997,396,368,28
+Airline,Air India,Maintenance,225,1,NA,224,224,NA,NA,202,22,18,4,NA,NA,NA,2,NA,6,225,198,27,25,2
+Airline,Air India,Meal,329,NA,NA,328,328,NA,NA,287,42,31,2,3,3,3,NA,NA,6,329,276,53,42,11
+Airline,Air India,Other,1186,NA,NA,1185,1185,NA,NA,1041,145,111,6,14,4,10,17,NA,42,1186,1023,163,148,15
+Airline,Air India,Person With Disability,73,NA,NA,71,71,NA,NA,64,9,6,NA,2,NA,1,NA,NA,3,73,62,11,10,1
+Airline,Air India,Staff / Crew Behavior,421,NA,NA,419,419,NA,NA,365,56,45,3,5,2,1,9,NA,23,421,354,67,58,9
+Airline,Air India,"Ticketing, Fares & Refunds",11954,1,NA,11924,11924,NA,1,10089,1864,1387,209,118,52,98,82,NA,340,11954,9983,1971,1831,140
+Airline,Air India,"Ticketing, Fares &amp; Refunds",2035,NA,1,2029,2029,NA,NA,1837,197,150,27,10,5,5,1,NA,1,2035,1821,214,179,35
+Airline,Lufthansa,Baggage,38,NA,NA,38,38,NA,NA,36,2,2,NA,NA,NA,NA,NA,NA,1,38,35,3,1,2
+Airline,Lufthansa,Check-in & Boarding,13,NA,NA,12,12,NA,NA,11,2,1,NA,NA,NA,1,NA,NA,1,13,11,2,1,1
+Airline,Lufthansa,Meal,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,NA,1
+Airline,Lufthansa,"Ticketing, Fares & Refunds",118,2,NA,109,109,NA,NA,99,17,11,2,1,1,2,1,NA,5,118,99,19,14,5
+Airline,Etihad Airways,"Ticketing, Fares & Refunds",145,NA,NA,143,143,NA,NA,131,14,11,1,1,NA,1,1,NA,2,145,130,15,14,1
+Airline,AirAsia India,Baggage,192,NA,NA,192,192,NA,NA,166,26,24,1,NA,1,NA,3,NA,7,192,166,26,23,3
+Airline,AirAsia India,Check-in & Boarding,105,NA,NA,105,105,NA,NA,87,18,16,1,1,NA,NA,NA,NA,NA,105,87,18,17,1
+Airline,AirAsia India,Check-in &amp; Boarding,107,NA,NA,105,105,NA,NA,92,15,11,3,NA,NA,1,NA,NA,NA,107,92,15,11,4
+Airline,AirAsia India,Flight Delays,591,NA,NA,562,562,NA,1,448,143,129,6,6,1,1,4,NA,7,591,444,147,141,6
+Airline,AirAsia India,Other,257,NA,NA,257,257,NA,NA,218,39,33,1,2,1,2,18,NA,19,257,217,40,33,7
+Airline,AirAsia India,Person With Disability,6,NA,NA,6,6,NA,NA,5,1,1,NA,NA,NA,NA,NA,NA,NA,6,5,1,NA,1
+Airline,AirAsia India,Staff / Crew Behavior,77,NA,NA,77,77,NA,1,64,13,8,1,2,2,NA,2,NA,3,77,63,14,10,4
+Airline,AirAsia India,"Ticketing, Fares & Refunds",1227,NA,NA,1227,1227,NA,NA,990,237,174,21,15,13,14,6,NA,13,1227,989,238,222,16
+Airline,AirAsia India,"Ticketing, Fares &amp; Refunds",783,NA,NA,783,783,NA,NA,654,129,98,12,7,1,11,NA,NA,2,783,651,132,114,18
+Airline,Buddha Air,"Ticketing, Fares & Refunds",1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,1,NA,1,NA,1
+Airline,Jet Airways,Baggage,224,NA,NA,224,224,NA,NA,182,42,37,2,2,1,NA,2,NA,5,224,180,44,39,5
+Airline,Jet Airways,Check-in & Boarding,219,NA,NA,219,219,NA,NA,183,36,33,1,1,NA,1,1,NA,1,219,179,40,38,2
+Airline,Jet Airways,Flight Delays,600,NA,NA,600,600,NA,NA,521,79,64,6,5,1,3,4,NA,8,600,516,84,74,10
+Airline,Jet Airways,Maintenance,36,NA,NA,36,36,NA,NA,30,6,5,1,NA,NA,NA,NA,NA,NA,36,29,7,6,1
+Airline,Jet Airways,Meal,49,NA,NA,49,49,NA,NA,40,9,9,NA,NA,NA,NA,NA,NA,NA,49,39,10,9,1
+Airline,Jet Airways,Staff / Crew Behavior,71,NA,NA,71,71,NA,NA,60,11,11,NA,NA,NA,NA,3,NA,3,71,58,13,11,2
+Airline,Jet Airways,"Ticketing, Fares & Refunds",1860,NA,NA,1860,1860,NA,NA,1636,224,176,21,12,6,9,2,NA,4,1860,1629,231,221,10
+Airline,Alliance Air (India),Baggage,23,NA,1,21,21,NA,NA,21,1,1,NA,NA,NA,NA,NA,NA,NA,23,21,2,1,1
+Airline,Alliance Air (India),Flight Delays,115,NA,NA,41,41,NA,NA,110,5,2,1,1,1,NA,NA,NA,NA,115,109,6,5,1
+Airline,Alliance Air (India),"Ticketing, Fares & Refunds",41,NA,NA,40,40,NA,NA,34,7,3,NA,3,1,NA,NA,NA,2,41,34,7,6,1
+Airline,Alliance Air (India),"Ticketing, Fares &amp; Refunds",295,NA,2,267,267,NA,NA,269,24,11,5,4,2,2,NA,NA,8,295,268,27,20,7
+Airline,VietJet Air,"Ticketing, Fares &amp; Refunds",197,NA,NA,169,169,NA,NA,175,22,18,1,NA,1,2,NA,NA,2,197,172,25,21,4
+Airline,Singapore Airlines,"Ticketing, Fares & Refunds",62,1,NA,60,60,NA,NA,53,8,7,NA,NA,NA,1,NA,NA,NA,62,54,8,7,1
+Airline,Turkish Airlines,Baggage,19,NA,NA,19,19,NA,NA,18,1,NA,NA,NA,1,NA,NA,NA,NA,19,18,1,NA,1
+Airline,Turkish Airlines,"Ticketing, Fares &amp; Refunds",29,NA,NA,29,29,NA,NA,27,2,1,1,NA,NA,NA,NA,NA,NA,29,27,2,1,1
+Airline,Air Arabia,Baggage,11,2,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,10,1,NA,1
+Airline,Air Arabia,"Ticketing, Fares & Refunds",36,NA,NA,35,35,NA,NA,34,2,NA,NA,NA,1,1,NA,NA,NA,36,34,2,NA,2
+Airline,Vistara,Baggage,312,NA,NA,312,312,NA,NA,290,22,21,NA,NA,NA,1,2,NA,3,312,290,22,20,2
+Airline,Vistara,Check-in & Boarding,191,1,NA,186,186,NA,NA,150,40,33,2,3,2,NA,1,NA,2,191,150,41,36,5
+Airline,Vistara,Check-in &amp; Boarding,189,NA,NA,177,177,NA,NA,162,27,24,1,NA,NA,2,NA,NA,1,189,159,30,25,5
+Airline,Vistara,Flight Delays,198,NA,NA,171,171,NA,NA,174,24,17,3,1,1,2,NA,NA,2,198,172,26,24,2
+Airline,Vistara,Meal,50,NA,NA,50,50,NA,NA,46,4,4,NA,NA,NA,NA,NA,NA,NA,50,44,6,5,1
+Airline,Vistara,Other,277,NA,NA,276,276,NA,NA,241,36,24,7,NA,3,2,3,NA,7,277,239,38,32,6
+Airline,Vistara,Person With Disability,30,NA,NA,25,25,NA,NA,26,4,4,NA,NA,NA,NA,NA,NA,1,30,26,4,3,1
+Airline,Vistara,Staff / Crew Behavior,97,NA,NA,97,97,NA,NA,79,18,15,NA,1,1,1,NA,NA,NA,97,79,18,15,3
+Airline,Vistara,"Ticketing, Fares & Refunds",1146,NA,NA,1145,1145,NA,NA,968,178,143,8,12,5,10,8,NA,15,1146,968,178,163,15
+Airline,Vistara,"Ticketing, Fares &amp; Refunds",368,NA,NA,368,368,NA,NA,331,37,28,3,1,3,2,NA,NA,1,368,327,41,31,10
+Airline,KLM Airlines,Other,7,NA,NA,6,6,NA,NA,6,1,NA,NA,NA,NA,1,NA,NA,NA,7,6,1,NA,1
+Airline,Thai Airways,"Ticketing, Fares & Refunds",110,NA,NA,105,105,NA,NA,103,7,5,1,NA,NA,1,1,NA,8,110,98,12,11,1
+Airline,Thai Airways,"Ticketing, Fares &amp; Refunds",66,NA,NA,59,59,NA,NA,63,3,NA,NA,NA,NA,3,NA,NA,1,66,63,3,NA,3
+Airline,Malaysia Airlines,"Ticketing, Fares & Refunds",69,NA,NA,67,67,NA,NA,53,16,13,NA,2,NA,1,NA,NA,3,69,53,16,15,1
+Airline,IndiGo,Baggage,1465,NA,NA,1462,1462,NA,NA,1274,191,166,13,5,2,5,12,NA,20,1465,1263,202,184,18
+Airline,IndiGo,Check-in & Boarding,1042,NA,NA,1037,1037,NA,1,872,170,143,10,11,2,4,5,NA,14,1042,865,177,164,13
+Airline,IndiGo,Check-in &amp; Boarding,726,NA,1,695,695,NA,NA,627,98,86,4,5,3,NA,NA,NA,3,726,623,103,90,13
+Airline,IndiGo,Cleanliness,64,NA,NA,56,56,NA,NA,51,13,11,1,1,NA,NA,NA,NA,3,64,50,14,11,3
+Airline,IndiGo,Flight Delays,1837,NA,NA,1763,1763,NA,NA,1581,256,206,21,14,9,6,7,NA,14,1837,1568,269,235,34
+Airline,IndiGo,Meal,272,NA,NA,272,272,NA,NA,225,47,34,2,7,2,2,NA,NA,3,272,223,49,35,14
+Airline,IndiGo,Other,970,NA,NA,968,968,NA,NA,860,110,77,14,8,4,7,25,NA,37,970,852,118,99,19
+Airline,IndiGo,Person With Disability,74,NA,NA,67,67,NA,NA,70,4,3,NA,NA,1,NA,NA,NA,NA,74,69,5,4,1
+Airline,IndiGo,Staff / Crew Behavior,526,1,NA,524,524,NA,NA,453,72,59,2,6,4,1,1,NA,5,526,451,75,62,13
+Airline,IndiGo,"Ticketing, Fares & Refunds",3792,NA,NA,3791,3791,NA,NA,3275,517,393,45,18,18,43,27,NA,36,3792,3257,535,479,56
+Airline,IndiGo,"Ticketing, Fares &amp; Refunds",647,NA,NA,647,647,NA,NA,591,56,52,1,2,NA,1,NA,NA,7,647,584,63,55,8
+Airline,Saudia,"Ticketing, Fares &amp; Refunds",26,NA,NA,25,25,NA,NA,23,3,NA,1,1,NA,1,NA,NA,NA,26,23,3,2,1
+Airline,Air Mauritius,"Ticketing, Fares &amp; Refunds",16,NA,NA,13,13,NA,NA,14,2,NA,NA,NA,1,1,NA,NA,NA,16,14,2,1,1
+Airline,Srilankan Airways,"Ticketing, Fares & Refunds",70,NA,NA,68,68,NA,NA,64,6,2,2,1,1,NA,NA,NA,15,70,64,6,5,1
+Airline,Srilankan Airways,"Ticketing, Fares &amp; Refunds",20,NA,NA,14,14,NA,NA,19,1,NA,NA,NA,1,NA,NA,NA,4,20,19,1,NA,1
+Airline,Finn Air,"Ticketing, Fares & Refunds",5,NA,NA,5,5,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,5,4,1,NA,1
+Airline,TruJet,Other,48,NA,NA,46,46,NA,NA,39,9,8,1,NA,NA,NA,1,NA,5,48,34,14,13,1
+Airline,Akasa Air,Baggage,28,NA,NA,26,26,NA,NA,25,3,3,NA,NA,NA,NA,NA,NA,NA,28,25,3,2,1
+Airline,Akasa Air,Check-in &amp; Boarding,55,NA,NA,33,33,NA,NA,53,2,2,NA,NA,NA,NA,NA,NA,NA,55,52,3,2,1
+Airline,Akasa Air,Flight Delays,51,NA,1,12,12,NA,NA,47,3,1,1,1,NA,NA,NA,NA,NA,51,48,3,2,1
+Airline,Akasa Air,Other,55,NA,NA,55,55,NA,NA,51,4,1,3,NA,NA,NA,NA,NA,NA,55,51,4,3,1
+Airline,Akasa Air,"Ticketing, Fares &amp; Refunds",208,NA,1,206,206,NA,NA,193,14,10,NA,NA,NA,4,NA,NA,NA,208,190,18,12,6
+Airline,Japan Airlines,"Ticketing, Fares &amp; Refunds",8,NA,NA,8,8,NA,NA,7,1,NA,NA,NA,NA,1,NA,NA,NA,8,7,1,NA,1
+Airline,Malindo Airways,Baggage,36,NA,NA,33,33,NA,NA,29,7,5,1,NA,1,NA,NA,NA,NA,36,29,7,6,1
+Airline,Malindo Airways,"Ticketing, Fares & Refunds",84,NA,NA,84,84,NA,NA,69,15,10,NA,3,1,1,1,NA,1,84,69,15,12,3
+Airline,Bhutan Airlines,"Ticketing, Fares & Refunds",4,NA,NA,3,3,NA,NA,3,1,NA,NA,NA,1,NA,1,NA,1,4,3,1,NA,1
+Airline,SpiceJet,Baggage,728,NA,NA,725,725,NA,NA,586,142,114,13,6,1,8,3,NA,6,728,584,144,128,16
+Airline,SpiceJet,Check-in & Boarding,430,NA,NA,426,426,NA,NA,335,95,82,3,5,2,3,1,NA,5,430,329,101,95,6
+Airline,SpiceJet,Check-in &amp; Boarding,240,NA,NA,238,238,NA,NA,209,31,27,2,1,1,NA,NA,NA,NA,240,205,35,28,7
+Airline,SpiceJet,Flight Delays,2247,NA,NA,2225,2225,NA,NA,1930,317,237,33,26,13,8,8,NA,11,2247,1919,328,300,28
+Airline,SpiceJet,Maintenance,114,NA,NA,114,114,NA,NA,100,14,9,1,3,1,NA,1,NA,1,114,100,14,12,2
+Airline,SpiceJet,Meal,83,NA,NA,83,83,NA,NA,67,16,12,3,NA,NA,1,NA,NA,2,83,67,16,14,2
+Airline,SpiceJet,Other,777,NA,NA,775,775,1,NA,676,101,84,4,6,1,6,11,NA,12,777,672,105,93,12
+Airline,SpiceJet,Staff / Crew Behavior,208,NA,NA,208,208,NA,NA,179,29,24,1,3,1,NA,3,NA,4,208,178,30,27,3
+Airline,SpiceJet,"Ticketing, Fares & Refunds",3156,NA,NA,3146,3146,NA,1,2615,541,429,45,20,8,39,16,2,23,3156,2610,546,515,31
+Airline,SpiceJet,"Ticketing, Fares &amp; Refunds",1801,NA,NA,1796,1796,NA,NA,1561,240,191,22,9,5,13,3,NA,7,1801,1545,256,227,29
+Airline,Swiss Air,"Ticketing, Fares & Refunds",18,NA,NA,18,18,NA,NA,16,2,NA,NA,NA,2,NA,1,NA,2,18,15,3,2,1
+Airline,Swiss Air,"Ticketing, Fares &amp; Refunds",23,NA,NA,18,18,NA,NA,21,2,2,NA,NA,NA,NA,NA,NA,NA,23,21,2,1,1
+DGCA,DGCA,Air Worthiness,50,NA,NA,50,50,NA,NA,44,6,4,NA,1,1,NA,NA,NA,NA,50,44,6,5,1
+DGCA,DGCA,License,17,NA,NA,17,17,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,14,3,NA,3
+DGCA,DGCA,Other,1170,1,NA,1169,1169,NA,NA,1024,145,108,15,9,6,7,22,NA,43,1170,1006,164,150,14
+DGCA,DGCA,Permits & Permissions,139,NA,NA,139,139,NA,NA,127,12,8,1,2,1,NA,NA,NA,3,139,119,20,14,6
+DGCA,DGCA,Permits &amp; Permissions,15,NA,NA,15,15,NA,NA,14,1,1,NA,NA,NA,NA,NA,NA,1,15,14,1,NA,1
+Customs,Bhopal,Other,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,1,NA,1,NA,1
+Customs,Madurai,Arrival,5,NA,NA,5,5,NA,NA,3,2,2,NA,NA,NA,NA,NA,NA,NA,5,2,3,1,2
+Customs,Surat,Other,8,NA,NA,8,8,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,NA,8,6,2,NA,2
+Immigration,Mumbai,Departure,35,NA,NA,35,35,NA,NA,25,10,8,NA,2,NA,NA,NA,NA,NA,35,25,10,9,1
+Immigration,Kolkata,Departure,4,NA,NA,4,4,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,4,2,2,1,1
+Immigration,Delhi,Departure,56,NA,NA,56,56,NA,NA,53,3,2,NA,NA,1,NA,NA,NA,NA,56,53,3,2,1
+Immigration,Chennai,Other,2,NA,NA,2,2,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,2,1,1,NA,1
+Immigration,Bhopal,Other,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,1,NA,1,NA,1
+BCAS,BCAS,Security Clearances,30,NA,NA,30,30,NA,NA,27,3,2,NA,NA,1,NA,NA,NA,2,30,25,5,3,2
+Airport,NA,Other,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Hyderabad,Air Conditioning / Maintenance,8,NA,NA,8,8,NA,NA,4,4,3,NA,1,NA,NA,NA,NA,NA,8,4,4,2,2
+Airport,Hyderabad,Baggage / Lost &amp; Found ,36,NA,NA,25,25,NA,NA,35,1,1,NA,NA,NA,NA,NA,NA,NA,36,33,3,1,2
+Airport,Hyderabad,Cleanliness / Hygiene,11,NA,NA,8,8,NA,NA,10,1,1,NA,NA,NA,NA,1,NA,NA,11,9,2,1,1
+Airport,Hyderabad,Other,72,NA,NA,72,72,NA,1,62,10,5,2,1,1,1,2,NA,2,72,58,14,11,3
+Airport,Thiruvananthapuram,Baggage / Lost &amp; Found ,11,NA,NA,11,11,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,10,1,NA,1
+Airport,Thiruvananthapuram,Other,14,NA,NA,14,14,NA,NA,12,2,NA,1,NA,NA,1,NA,NA,2,14,9,5,4,1
+Airport,Thiruvananthapuram,Retail Shops / Food &amp; Beverage,10,NA,NA,10,10,NA,NA,7,3,1,NA,NA,NA,2,NA,NA,1,10,6,4,3,1
+Airport,Delhi,Baggage / Lost & Found ,149,NA,NA,143,143,NA,NA,134,15,12,NA,2,NA,1,NA,NA,2,149,132,17,16,1
+Airport,Delhi,Baggage / Lost &amp; Found ,56,NA,NA,28,28,NA,NA,51,5,2,1,NA,2,NA,NA,NA,NA,56,51,5,3,2
+Airport,Delhi,Cleanliness / Hygiene,25,NA,NA,22,22,NA,NA,20,5,2,NA,NA,NA,3,NA,NA,1,25,18,7,4,3
+Airport,Delhi,Other,216,NA,NA,215,215,NA,1,200,16,11,2,1,NA,2,5,NA,14,216,194,22,18,4
+Airport,Delhi,Retail Shops / Food & Beverage,43,NA,NA,43,43,NA,NA,34,9,5,2,1,NA,1,NA,NA,1,43,33,10,8,2
+Airport,Delhi,Retail Shops / Food &amp; Beverage,10,NA,NA,10,10,NA,NA,9,1,NA,NA,NA,NA,1,NA,NA,NA,10,9,1,NA,1
+Airport,Delhi,Taxi / Parking,43,NA,NA,41,41,NA,NA,39,4,2,1,1,NA,NA,1,NA,3,43,37,6,5,1
+Airport,Delhi,Trolly / Ameniites / Buggy / Wifi,38,NA,NA,37,37,NA,NA,35,3,3,NA,NA,NA,NA,NA,NA,2,38,34,4,2,2
+Airport,Varanasi,Cleanliness / Hygiene,10,NA,NA,10,10,NA,NA,6,4,3,NA,1,NA,NA,1,NA,1,10,6,4,3,1
+Airport,Varanasi,Retail Shops / Food & Beverage,4,NA,NA,4,4,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,4,NA,4,2,2
+Airport,Varanasi,Taxi / Parking,21,NA,NA,21,21,NA,NA,16,5,4,NA,1,NA,NA,NA,NA,NA,21,15,6,5,1
+Airport,Bhubaneswar,Other,23,NA,NA,23,23,NA,NA,20,3,NA,NA,NA,3,NA,NA,NA,NA,23,20,3,NA,3
+Airport,Malda,Cleanliness / Hygiene,5,NA,NA,2,2,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4,1,NA,1
+Airport,Malda,Other,16,NA,1,12,12,NA,NA,12,3,1,NA,1,NA,1,NA,NA,4,16,11,5,NA,5
+Airport,Malda,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Malda,Seating / Waiting Area,6,NA,NA,4,4,NA,NA,4,2,NA,NA,1,NA,1,NA,NA,3,6,4,2,NA,2
+Airport,Malda,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Malda,Taxi / Parking,6,NA,1,4,4,NA,NA,3,2,NA,NA,1,1,NA,NA,NA,1,6,3,3,NA,3
+Airport,Calicut,Cleanliness / Hygiene,7,NA,NA,7,7,NA,NA,6,1,NA,NA,NA,NA,1,NA,NA,NA,7,6,1,NA,1
+Airport,Calicut,Other,20,NA,NA,20,20,NA,NA,17,3,NA,NA,1,1,1,NA,NA,NA,20,16,4,1,3
+Airport,Nagpur,Retail Shops / Food & Beverage,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,7,1,NA,1
+Airport,Nagpur,Trolly / Ameniites / Buggy / Wifi,4,NA,NA,4,4,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,2,2,NA,2
+Airport,Aurangabad,Baggage / Lost &amp; Found ,2,NA,NA,2,2,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,2,1,1,NA,1
+Airport,Madurai,Person With Disability,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Rajkot,Seating / Waiting Area,4,NA,NA,4,4,NA,NA,3,1,NA,NA,NA,NA,1,NA,NA,NA,4,3,1,NA,1
+Airport,Rajkot,Taxi / Parking,4,NA,NA,4,4,NA,NA,3,1,NA,NA,NA,1,NA,NA,NA,NA,4,3,1,NA,1
+Airport,Lucknow,Cleanliness / Hygiene,33,NA,NA,33,33,NA,NA,31,2,1,NA,NA,1,NA,NA,NA,NA,33,28,5,2,3
+Airport,Lucknow,Other,27,NA,NA,27,27,NA,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,26,1,NA,1
+Airport,Lucknow,Retail Shops / Food & Beverage,20,NA,NA,20,20,NA,NA,13,7,4,2,NA,NA,1,NA,NA,1,20,12,8,5,3
+Airport,Lucknow,Seating / Waiting Area,25,NA,NA,25,25,NA,NA,24,1,NA,NA,1,NA,NA,NA,NA,2,25,20,5,3,2
+Airport,Lucknow,Trolly / Ameniites / Buggy / Wifi,8,NA,NA,8,8,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,NA,8,6,2,1,1
+Airport,Kochi,Baggage / Lost & Found ,4,NA,NA,4,4,NA,NA,3,1,NA,NA,NA,1,NA,NA,NA,NA,4,3,1,NA,1
+Airport,Kochi,Other,15,NA,NA,15,15,NA,1,14,1,NA,NA,NA,NA,1,1,NA,1,15,14,1,NA,1
+Airport,Mumbai,Baggage / Lost & Found ,67,NA,NA,67,67,NA,NA,63,4,2,NA,NA,2,NA,NA,NA,2,67,62,5,3,2
+Airport,Mumbai,Baggage / Lost &amp; Found ,29,NA,NA,20,20,NA,NA,28,1,NA,NA,NA,NA,1,NA,NA,1,29,28,1,NA,1
+Airport,Mumbai,Cleanliness / Hygiene,15,NA,NA,13,13,NA,NA,13,2,1,NA,NA,1,NA,NA,NA,1,15,13,2,1,1
+Airport,Mumbai,Other,202,1,NA,201,201,NA,1,185,16,12,1,1,NA,2,4,NA,7,202,182,20,15,5
+Airport,Mumbai,Retail Shops / Food & Beverage,30,NA,NA,30,30,NA,NA,23,7,5,NA,1,NA,1,NA,NA,NA,30,22,8,6,2
+Airport,Mumbai,Trolly / Ameniites / Buggy / Wifi,31,NA,NA,30,30,NA,NA,27,4,2,NA,NA,NA,2,1,NA,1,31,25,6,2,4
+Airport,Visakhapatnam,Baggage / Lost & Found ,8,NA,NA,8,8,NA,NA,6,2,1,NA,NA,1,NA,NA,NA,1,8,6,2,1,1
+Airport,Visakhapatnam,Cleanliness / Hygiene,24,NA,NA,24,24,NA,NA,22,2,2,NA,NA,NA,NA,NA,NA,NA,24,21,3,2,1
+Airport,Visakhapatnam,Retail Shops / Food & Beverage,13,NA,NA,13,13,NA,NA,10,3,1,NA,NA,NA,2,NA,NA,1,13,8,5,4,1
+Airport,Visakhapatnam,Signages / Flight Display,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,1,NA,1
+Airport,Visakhapatnam,Trolly / Ameniites / Buggy / Wifi,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4,1,NA,1
+Airport,Leh,Cleanliness / Hygiene,3,NA,NA,3,3,NA,NA,2,1,NA,NA,1,NA,NA,NA,NA,NA,3,2,1,NA,1
+Airport,Patna,Air Conditioning / Maintenance,4,NA,NA,4,4,NA,NA,2,2,NA,1,NA,NA,1,NA,NA,NA,4,2,2,1,1
+Airport,Patna,Baggage / Lost & Found ,18,NA,NA,18,18,NA,NA,16,2,NA,NA,NA,1,1,NA,NA,NA,18,12,6,1,5
+Airport,Patna,Cleanliness / Hygiene,22,NA,NA,22,22,NA,NA,18,4,NA,NA,1,NA,3,NA,NA,NA,22,12,10,1,9
+Airport,Patna,Other,68,NA,NA,68,68,NA,NA,64,4,2,NA,NA,1,1,NA,NA,NA,68,36,32,2,30
+Airport,Patna,Seating / Waiting Area,30,NA,NA,30,30,NA,NA,28,2,NA,NA,1,NA,1,NA,NA,NA,30,20,10,1,9
+Airport,Patna,Signages / Flight Display,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,4,NA,4
+Airport,Jodhpur,Signages / Flight Display,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Gorakhpur,Other,3,NA,NA,3,3,NA,NA,2,1,NA,NA,NA,NA,1,NA,NA,NA,3,2,1,NA,1
+Airport,Ahmedabad,Cleanliness / Hygiene,46,NA,NA,45,45,NA,NA,44,2,NA,NA,NA,NA,2,NA,NA,NA,46,44,2,NA,2
+Airport,Ahmedabad,Other,62,NA,NA,62,62,NA,NA,60,2,1,NA,1,NA,NA,NA,NA,NA,62,59,3,2,1
+Airport,Ahmedabad,Seating / Waiting Area,51,NA,NA,51,51,NA,NA,51,NA,NA,NA,NA,NA,NA,1,NA,1,51,50,1,NA,1
+Airport,Ahmedabad,Taxi / Parking,49,NA,NA,48,48,NA,1,42,7,3,2,1,NA,1,NA,NA,NA,49,37,12,8,4
+Airport,Bengaluru,Baggage / Lost & Found ,35,NA,NA,32,32,NA,1,34,1,NA,NA,NA,NA,1,1,NA,1,35,33,2,1,1
+Airport,Bengaluru,Baggage / Lost &amp; Found ,26,NA,NA,3,3,NA,NA,25,1,NA,NA,NA,NA,1,NA,NA,NA,26,25,1,NA,1
+Airport,Bengaluru,Cleanliness / Hygiene,18,NA,NA,18,18,NA,NA,15,3,1,NA,NA,1,1,NA,NA,2,18,14,4,2,2
+Airport,Bengaluru,Other,94,NA,NA,94,94,NA,NA,90,4,1,1,1,NA,1,5,NA,6,94,88,6,4,2
+Airport,Bengaluru,Retail Shops / Food & Beverage,11,NA,NA,11,11,NA,NA,10,1,1,NA,NA,NA,NA,NA,NA,1,11,9,2,1,1
+Airport,Bengaluru,Staff / Crew behavoiur,24,NA,NA,24,24,NA,2,21,3,1,NA,NA,1,1,NA,NA,2,24,21,3,NA,3
+Airport,Bengaluru,Trolly / Ameniites / Buggy / Wifi,8,NA,NA,8,8,NA,NA,6,2,1,NA,NA,NA,1,NA,NA,NA,8,6,2,1,1
+Airport,Vijayawada,Cleanliness / Hygiene,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,1,NA,1
+Airport,Vijayawada,Other,7,NA,NA,7,7,NA,NA,6,1,NA,NA,1,NA,NA,NA,NA,NA,7,5,2,NA,2
+Airport,Vijayawada,Retail Shops / Food & Beverage,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,1,2,1,1
+Airport,Ranchi,Other,14,NA,NA,14,14,NA,NA,12,2,1,NA,NA,1,NA,NA,NA,NA,14,12,2,1,1
+Airport,Indore,Baggage / Lost &amp; Found ,5,NA,NA,3,3,NA,NA,4,1,NA,NA,NA,NA,1,NA,NA,NA,5,4,1,NA,1
+Airport,Indore,Other,12,NA,NA,12,12,NA,NA,10,2,1,1,NA,NA,NA,NA,NA,NA,12,9,3,1,2
+Airport,Indore,Taxi / Parking,15,NA,NA,15,15,NA,NA,13,2,1,NA,1,NA,NA,NA,NA,NA,15,12,3,1,2
+Airport,Vadodara,Seating / Waiting Area,9,NA,NA,9,9,NA,NA,6,3,3,NA,NA,NA,NA,NA,NA,NA,9,5,4,2,2
+Airport,Porbandar,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Raipur,Other,12,NA,NA,12,12,NA,NA,9,3,NA,1,1,NA,1,NA,NA,NA,12,9,3,2,1
+Airport,Raipur,Trolly / Ameniites / Buggy / Wifi,4,NA,NA,4,4,NA,NA,3,1,NA,NA,NA,NA,1,NA,NA,NA,4,2,2,NA,2
+Airport,Chandigarh,Other,20,NA,NA,20,20,NA,NA,18,2,2,NA,NA,NA,NA,1,NA,2,20,15,5,4,1
+Airport,Chandigarh,Seating / Waiting Area,10,NA,NA,10,10,NA,NA,9,1,NA,NA,NA,1,NA,NA,NA,2,10,5,5,3,2
+Airport,Chandigarh,Trolly / Ameniites / Buggy / Wifi,7,NA,NA,7,7,NA,NA,6,1,NA,NA,NA,NA,1,NA,NA,NA,7,5,2,1,1
+Airport,Pune,Baggage / Lost &amp; Found ,24,NA,NA,15,15,NA,NA,21,3,1,NA,NA,1,1,NA,NA,1,24,20,4,1,3
+Airport,Pune,Cleanliness / Hygiene,38,NA,NA,35,35,NA,NA,35,3,1,NA,1,NA,1,1,NA,1,38,34,4,1,3
+Airport,Pune,Other,81,NA,NA,81,81,NA,NA,72,9,4,NA,NA,1,4,1,NA,1,81,70,11,6,5
+Airport,Pune,Retail Shops / Food &amp; Beverage,26,NA,NA,26,26,NA,NA,23,3,2,1,NA,NA,NA,1,NA,NA,26,23,3,2,1
+Airport,Pune,Signages / Flight Display,10,NA,NA,10,10,NA,NA,8,2,1,NA,NA,NA,1,NA,NA,NA,10,8,2,1,1
+Airport,Pune,Taxi / Parking,35,NA,NA,35,35,NA,NA,27,8,3,1,3,1,NA,NA,NA,NA,35,27,8,7,1
+Airport,Udaipur,Taxi / Parking,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,1,1,NA,1,NA,1
+Airport,Guwahati,Other,29,NA,NA,29,29,NA,NA,26,3,1,1,NA,1,NA,NA,NA,NA,29,25,4,2,2
+Airport,Guwahati,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Guwahati,Taxi / Parking,8,NA,NA,8,8,NA,NA,5,3,NA,NA,1,NA,2,NA,NA,1,8,5,3,1,2
+Airport,Chennai,Baggage / Lost & Found ,78,NA,NA,78,78,NA,NA,71,7,4,1,NA,1,1,1,NA,1,78,68,10,8,2
+Airport,Chennai,Cleanliness / Hygiene,87,NA,NA,79,79,NA,NA,85,2,NA,NA,NA,1,1,NA,NA,NA,87,84,3,NA,3
+Airport,Chennai,Other,200,NA,NA,200,200,NA,NA,192,8,NA,5,NA,1,2,1,NA,1,200,190,10,6,4
+Airport,Chennai,Retail Shops / Food & Beverage,100,NA,NA,100,100,NA,NA,96,4,2,1,NA,NA,1,1,NA,1,100,95,5,3,2
+Airport,Chennai,Seating / Waiting Area,118,NA,NA,118,118,NA,NA,116,2,1,1,NA,NA,NA,NA,NA,2,118,116,2,1,1
+Airport,Chennai,Staff / Crew behavoiur,28,NA,NA,28,28,NA,NA,25,3,2,1,NA,NA,NA,NA,NA,NA,28,24,4,3,1
+Airport,Chennai,Trolly / Ameniites / Buggy / Wifi,102,NA,NA,102,102,NA,NA,100,2,1,NA,NA,1,NA,1,NA,1,102,99,3,2,1
+Airport,Hubli,Taxi / Parking,6,NA,NA,6,6,NA,NA,5,1,NA,NA,1,NA,NA,NA,NA,NA,6,5,1,NA,1
+Airport,Surat,Air Conditioning / Maintenance,14,NA,NA,14,14,NA,NA,13,1,1,NA,NA,NA,NA,NA,NA,NA,14,11,3,1,2
+Airport,Surat,Cleanliness / Hygiene,10,NA,NA,8,8,NA,NA,8,2,1,NA,NA,NA,1,NA,NA,NA,10,8,2,1,1
+Airport,Surat,Other,41,NA,NA,41,41,NA,NA,36,5,5,NA,NA,NA,NA,NA,NA,NA,41,31,10,5,5
+Airport,Surat,Seating / Waiting Area,14,NA,NA,14,14,NA,NA,10,4,3,NA,NA,1,NA,NA,NA,NA,14,10,4,3,1
+Airport,Surat,Taxi / Parking,9,NA,NA,9,9,NA,NA,6,3,2,NA,NA,NA,1,NA,NA,NA,9,5,4,3,1
+Airport,Jammu,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,NA,1
+Airport,Bhopal,Baggage / Lost & Found ,12,NA,NA,12,12,NA,NA,11,1,NA,NA,NA,NA,1,NA,NA,NA,12,8,4,NA,4
+Airport,Bhopal,Baggage / Lost &amp; Found ,3,NA,NA,NA,NA,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,NA,1
+Airport,Bhopal,Other,14,1,NA,13,13,NA,NA,12,1,NA,1,NA,NA,NA,2,NA,2,14,12,2,1,1
+Airport,Dibrugarh,Other,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,1,NA,1
+Airport,Agartala,Cleanliness / Hygiene,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,1,NA,1
+Airport,Agartala,Retail Shops / Food & Beverage,2,NA,NA,2,2,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,2,1,1,NA,1
+Airport,Tiruchirappalli,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,1
+Airport,Goa,Air Conditioning / Maintenance,11,NA,NA,11,11,NA,NA,10,1,NA,NA,NA,NA,1,NA,NA,NA,11,9,2,1,1
+Airport,Goa,Cleanliness / Hygiene,36,NA,NA,34,34,NA,NA,33,3,2,1,NA,NA,NA,NA,NA,NA,36,31,5,4,1
+Airport,Goa,Retail Shops / Food & Beverage,54,NA,NA,54,54,NA,NA,45,9,7,NA,NA,1,1,NA,NA,NA,54,41,13,10,3
+Airport,Goa,Seating / Waiting Area,20,NA,NA,20,20,NA,NA,18,2,1,NA,NA,NA,1,NA,NA,NA,20,16,4,2,2
+Airport,Kolkata,Baggage / Lost &amp; Found ,19,NA,NA,2,2,NA,NA,17,2,NA,NA,NA,NA,2,NA,NA,NA,19,17,2,NA,2
+Airport,Kolkata,Cleanliness / Hygiene,70,NA,NA,53,53,NA,NA,66,4,2,NA,1,1,NA,NA,NA,NA,70,65,5,3,2
+Airport,Kolkata,Other,88,NA,NA,88,88,NA,NA,83,5,3,NA,NA,2,NA,2,NA,2,88,83,5,3,2
+Airport,Kolkata,Seating / Waiting Area,31,NA,NA,31,31,NA,NA,30,1,NA,NA,NA,1,NA,NA,NA,1,31,29,2,1,1
+Airport,Kolkata,Trolly / Ameniites / Buggy / Wifi,34,NA,NA,33,33,NA,NA,31,3,2,NA,NA,NA,1,NA,NA,NA,34,28,6,5,1
+Airport,Srinagar,Cleanliness / Hygiene,5,NA,NA,2,2,NA,NA,4,1,NA,NA,NA,NA,1,NA,NA,NA,5,4,1,NA,1
+Airport,Mangalore,Retail Shops / Food & Beverage,4,NA,NA,4,4,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,2,2,1,1
+Airport,Mangalore,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,NA,1
+Security,NA,NA,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,2,NA,2,3,2,1,NA,1
+Security,Mumbai,Security Check,76,1,NA,74,74,NA,NA,67,8,5,NA,NA,1,2,1,NA,NA,76,68,8,6,2
+Security,Coimbatore,Security Check,3,NA,NA,3,3,NA,NA,2,1,NA,NA,NA,1,NA,NA,NA,NA,3,2,1,NA,1
+Security,Chennai,Security Check,101,NA,NA,101,101,NA,NA,95,6,3,NA,2,NA,1,NA,NA,2,101,94,7,5,2
+Security,Delhi,Security Check,141,NA,NA,141,141,NA,NA,133,8,4,2,1,NA,1,1,NA,2,141,132,9,7,2
+Security,Delhi,Terminal Entry,29,1,NA,28,28,NA,NA,24,4,3,1,NA,NA,NA,NA,NA,2,29,21,8,6,2
+Security,Patna,Security Check,18,NA,NA,18,18,NA,NA,16,2,2,NA,NA,NA,NA,NA,NA,NA,18,16,2,1,1
+Security,Ahmedabad,Security Check,40,NA,NA,40,40,NA,NA,38,2,2,NA,NA,NA,NA,NA,NA,1,40,36,4,3,1
+Security,Ahmedabad,Terminal Entry,8,NA,NA,8,8,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,NA,8,7,1,NA,1
+Security,Jodhpur,Security Check,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,1,NA,1,NA,1
+Security,Goa,Security Check,22,NA,NA,21,21,NA,NA,19,3,2,NA,1,NA,NA,NA,NA,1,22,18,4,2,2
+Security,Hyderabad,Security Check,42,NA,NA,41,41,NA,NA,40,2,2,NA,NA,NA,NA,NA,NA,NA,42,38,4,2,2
+Security,Nagpur,Other,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1,NA,1
+Security,Bengaluru,Other,11,NA,NA,11,11,NA,NA,10,1,NA,NA,NA,NA,1,1,NA,2,11,10,1,NA,1
+Security,Kolkata,Security Check,73,1,NA,72,72,NA,NA,69,3,3,NA,NA,NA,NA,NA,NA,NA,73,70,3,2,1
+Airline,NA,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Aeroflot,Baggage,21,NA,NA,20,20,NA,NA,20,1,1,NA,NA,NA,NA,NA,NA,NA,21,20,1,1,NA
+Airline,Aeroflot,Check-in & Boarding,7,NA,NA,7,7,NA,NA,5,2,2,NA,NA,NA,NA,NA,NA,NA,7,5,2,2,NA
+Airline,Aeroflot,Flight Delays,12,NA,NA,12,12,NA,NA,10,2,1,NA,1,NA,NA,NA,NA,NA,12,10,2,2,NA
+Airline,Aeroflot,Other,7,NA,NA,7,7,NA,NA,6,1,NA,NA,1,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airline,Aeroflot,Staff / Crew Behavior,3,NA,NA,3,3,NA,NA,2,1,NA,NA,1,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airline,Emirates Airline,Check-in & Boarding,13,NA,NA,12,12,NA,NA,10,3,3,NA,NA,NA,NA,NA,NA,NA,13,10,3,3,NA
+Airline,Emirates Airline,Other,19,NA,NA,19,19,NA,NA,18,1,NA,NA,1,NA,NA,NA,NA,NA,19,18,1,1,NA
+Airline,Emirates Airline,"Ticketing, Fares & Refunds",118,NA,NA,118,118,NA,NA,101,17,13,2,2,NA,NA,NA,NA,NA,118,101,17,17,NA
+Airline,Kuwait Airways,Check-in & Boarding,9,NA,NA,8,8,NA,NA,8,1,1,NA,NA,NA,NA,NA,NA,NA,9,8,1,1,NA
+Airline,Kuwait Airways,"Ticketing, Fares & Refunds",23,NA,NA,23,23,NA,NA,22,1,1,NA,NA,NA,NA,NA,NA,NA,23,22,1,1,NA
+Airline,United Airlines,Flight Delays,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,2,4,2,2,2,NA
+Airline,United Airlines,Other,10,NA,1,9,9,NA,NA,8,1,1,NA,NA,NA,NA,NA,NA,1,10,9,1,1,NA
+Airline,United Airlines,"Ticketing, Fares & Refunds",26,NA,NA,26,26,NA,NA,23,3,3,NA,NA,NA,NA,NA,NA,3,26,23,3,3,NA
+Airline,Qatar Airways,Baggage,44,2,1,38,38,NA,NA,37,4,2,2,NA,NA,NA,NA,NA,NA,44,40,4,4,NA
+Airline,Qatar Airways,Check-in & Boarding,23,NA,NA,22,22,NA,NA,19,4,4,NA,NA,NA,NA,NA,NA,1,23,19,4,4,NA
+Airline,Qatar Airways,Flight Delays,18,NA,NA,10,10,NA,NA,16,2,1,NA,1,NA,NA,NA,NA,NA,18,16,2,2,NA
+Airline,Qatar Airways,"Ticketing, Fares & Refunds",61,NA,NA,56,56,NA,NA,59,2,NA,1,NA,1,NA,NA,NA,2,61,59,2,2,NA
+Airline,Air Canada,Check-in & Boarding,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airline,Air Canada,Other,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,1,1,NA
+Airline,Air Canada,"Ticketing, Fares & Refunds",52,NA,NA,51,51,NA,NA,43,9,7,1,1,NA,NA,NA,NA,7,52,43,9,9,NA
+Airline,Air Canada,"Ticketing, Fares &amp; Refunds",18,NA,NA,12,12,NA,NA,16,2,1,NA,1,NA,NA,NA,NA,7,18,16,2,2,NA
+Airline,Virgin Atlantic,"Ticketing, Fares &amp; Refunds",9,NA,NA,6,6,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,1,9,8,1,1,NA
+Airline,China Southern,Baggage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airline,China Southern,"Ticketing, Fares & Refunds",3,NA,NA,3,3,NA,NA,2,1,NA,1,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airline,Air Asia Berhad (Intl Tickets),Baggage,11,NA,NA,11,11,NA,NA,10,1,1,NA,NA,NA,NA,NA,NA,NA,11,9,2,2,NA
+Airline,Air Asia Berhad (Intl Tickets),Flight Delays,13,NA,NA,10,10,NA,NA,11,2,2,NA,NA,NA,NA,NA,NA,NA,13,11,2,2,NA
+Airline,Air Asia Berhad (Intl Tickets),Other,14,NA,NA,14,14,NA,NA,13,1,1,NA,NA,NA,NA,NA,NA,NA,14,13,1,1,NA
+Airline,Ethiopian Airlines,Baggage,19,NA,NA,17,17,NA,NA,19,NA,NA,NA,NA,NA,NA,1,NA,2,19,18,1,1,NA
+Airline,Ethiopian Airlines,Check-in & Boarding,7,NA,NA,7,7,NA,NA,6,1,NA,1,NA,NA,NA,NA,NA,3,7,4,3,3,NA
+Airline,Ethiopian Airlines,Check-in &amp; Boarding,4,NA,NA,1,1,NA,NA,3,1,NA,1,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airline,Ethiopian Airlines,Flight Delays,4,NA,NA,1,1,NA,NA,2,2,1,1,NA,NA,NA,NA,NA,NA,4,2,2,2,NA
+Airline,Ethiopian Airlines,Other,5,NA,NA,4,4,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,1,1,NA
+Airline,Ethiopian Airlines,"Ticketing, Fares & Refunds",9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,1,9,8,1,1,NA
+Airline,Tiger Airways,Baggage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airline,Tiger Airways,Flight Delays,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,1,1,NA
+Airline,Tiger Airways,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Tiger Airways,"Ticketing, Fares & Refunds",17,NA,NA,17,17,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,1,17,16,1,1,NA
+Airline,GoAir,Cleanliness,4,NA,NA,4,4,NA,NA,3,1,NA,1,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airline,GoAir,Maintenance,22,NA,NA,22,22,NA,NA,20,2,1,1,NA,NA,NA,NA,NA,NA,22,20,2,2,NA
+Airline,GoAir,Meal,40,NA,NA,40,40,NA,NA,37,3,2,NA,1,NA,NA,NA,NA,1,40,36,4,4,NA
+Airline,GoAir,Person With Disability,21,NA,NA,19,19,NA,NA,19,2,2,NA,NA,NA,NA,NA,NA,NA,21,19,2,2,NA
+Airline,Gulf Air,Baggage,17,NA,NA,13,13,NA,NA,16,1,1,NA,NA,NA,NA,NA,NA,2,17,16,1,1,NA
+Airline,Gulf Air,Check-in & Boarding,5,NA,NA,5,5,NA,NA,3,2,2,NA,NA,NA,NA,NA,NA,NA,5,3,2,2,NA
+Airline,Gulf Air,Check-in &amp; Boarding,6,NA,NA,1,1,NA,NA,5,1,1,NA,NA,NA,NA,NA,NA,2,6,5,1,1,NA
+Airline,Gulf Air,Flight Delays,4,NA,NA,2,2,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airline,Gulf Air,Other,4,NA,NA,3,3,NA,NA,3,1,1,NA,NA,NA,NA,1,NA,NA,4,3,1,1,NA
+Airline,British Airways,Baggage,21,NA,1,19,19,NA,NA,19,1,1,NA,NA,NA,NA,NA,NA,NA,21,20,1,1,NA
+Airline,British Airways,Check-in & Boarding,20,NA,NA,18,18,NA,NA,18,2,1,NA,1,NA,NA,NA,NA,NA,20,18,2,2,NA
+Airline,British Airways,Flight Delays,7,NA,NA,3,3,NA,NA,6,1,NA,1,NA,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airline,British Airways,Person With Disability,4,NA,1,NA,NA,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,4,2,2,2,NA
+Airline,Air China,Baggage,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,1,NA,2,6,5,1,1,NA
+Airline,Air China,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Air China,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Air India,NA,102,NA,NA,102,102,NA,NA,102,NA,NA,NA,NA,NA,NA,100,NA,78,102,100,2,2,NA
+Airline,Lufthansa,Check-in &amp; Boarding,18,NA,NA,9,9,NA,NA,16,2,NA,1,1,NA,NA,NA,NA,NA,18,16,2,2,NA
+Airline,Lufthansa,Flight Delays,13,NA,NA,11,11,NA,NA,12,1,1,NA,NA,NA,NA,NA,NA,NA,13,12,1,1,NA
+Airline,Lufthansa,Other,19,NA,NA,18,18,NA,NA,15,4,3,NA,NA,1,NA,NA,NA,NA,19,15,4,4,NA
+Airline,Lufthansa,"Ticketing, Fares &amp; Refunds",74,NA,NA,67,67,NA,NA,72,2,2,NA,NA,NA,NA,NA,NA,NA,74,72,2,2,NA
+Airline,Etihad Airways,Baggage,44,3,NA,38,38,NA,NA,40,1,1,NA,NA,NA,NA,NA,NA,3,44,40,4,4,NA
+Airline,Etihad Airways,Check-in & Boarding,31,NA,NA,29,29,NA,NA,30,1,NA,NA,NA,NA,1,NA,NA,1,31,29,2,2,NA
+Airline,Etihad Airways,Flight Delays,22,NA,NA,15,15,NA,NA,19,3,2,1,NA,NA,NA,NA,NA,1,22,18,4,4,NA
+Airline,Etihad Airways,Meal,6,NA,NA,4,4,NA,NA,5,1,1,NA,NA,NA,NA,NA,NA,NA,6,5,1,1,NA
+Airline,Etihad Airways,Other,17,NA,NA,14,14,NA,NA,14,3,2,NA,1,NA,NA,2,NA,1,17,14,3,3,NA
+Airline,Etihad Airways,Staff / Crew Behavior,5,NA,NA,4,4,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,1,1,NA
+Airline,Etihad Airways,"Ticketing, Fares &amp; Refunds",66,NA,NA,46,46,NA,NA,64,2,2,NA,NA,NA,NA,NA,NA,NA,66,64,2,2,NA
+Airline,Air Pegasus,Check-in & Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,2,2,NA
+Airline,Air Pegasus,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Air Pegasus,"Ticketing, Fares & Refunds",71,NA,NA,71,71,NA,NA,71,NA,NA,NA,NA,NA,NA,NA,NA,63,71,8,63,63,NA
+Airline,Silk Air,"Ticketing, Fares & Refunds",2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airline,AirAsia India,Maintenance,8,NA,NA,8,8,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,NA,8,7,1,1,NA
+Airline,AirAsia India,Meal,43,NA,NA,43,43,NA,NA,36,7,6,NA,NA,1,NA,NA,NA,3,43,36,7,7,NA
+Airline,Air France,Check-in & Boarding,12,NA,NA,11,11,NA,NA,10,2,2,NA,NA,NA,NA,NA,NA,NA,12,10,2,2,NA
+Airline,Air France,Other,8,NA,NA,7,7,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,2,8,6,2,2,NA
+Airline,Air France,"Ticketing, Fares & Refunds",33,NA,NA,33,33,NA,NA,29,4,4,NA,NA,NA,NA,NA,NA,NA,33,29,4,4,NA
+Airline,Thai Air Asia,"Ticketing, Fares & Refunds",14,NA,NA,14,14,NA,NA,13,1,1,NA,NA,NA,NA,NA,NA,NA,14,13,1,1,NA
+Airline,FlyBig,Other,11,NA,NA,7,7,NA,NA,10,1,1,NA,NA,NA,NA,NA,NA,NA,11,10,1,1,NA
+Airline,Fly Dubai,Check-in & Boarding,10,NA,NA,6,6,NA,NA,7,3,3,NA,NA,NA,NA,NA,NA,NA,10,7,3,3,NA
+Airline,Fly Dubai,"Ticketing, Fares & Refunds",40,NA,NA,40,40,NA,NA,34,6,6,NA,NA,NA,NA,NA,NA,NA,40,34,6,6,NA
+Airline,Fly Dubai,"Ticketing, Fares &amp; Refunds",15,NA,NA,9,9,NA,NA,13,2,1,1,NA,NA,NA,NA,NA,NA,15,13,2,2,NA
+Airline,Jet Airways,Cleanliness,9,NA,NA,9,9,NA,NA,7,2,2,NA,NA,NA,NA,1,NA,1,9,7,2,2,NA
+Airline,Jet Airways,Other,310,NA,NA,310,310,NA,NA,269,41,37,3,1,NA,NA,6,NA,7,310,269,41,41,NA
+Airline,Kenya Airways,Check-in &amp; Boarding,3,NA,NA,NA,NA,NA,NA,2,1,NA,1,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airline,Kenya Airways,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Nepal Airlines Corporation,Flight Delays,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airline,Nepal Airlines Corporation,"Ticketing, Fares & Refunds",4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,2,4,3,1,1,NA
+Airline,Alliance Air (India),Check-in &amp; Boarding,25,NA,NA,11,11,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,1,25,24,1,1,NA
+Airline,Alliance Air (India),Other,62,NA,NA,58,58,NA,NA,60,2,1,1,NA,NA,NA,NA,NA,NA,62,60,2,2,NA
+Airline,Alliance Air (India),Staff / Crew Behavior,15,1,NA,14,14,NA,NA,13,1,1,NA,NA,NA,NA,NA,NA,NA,15,14,1,1,NA
+Airline,VietJet Air,Baggage,23,NA,NA,19,19,NA,NA,20,3,3,NA,NA,NA,NA,NA,NA,2,23,20,3,3,NA
+Airline,VietJet Air,Check-in &amp; Boarding,10,NA,NA,2,2,NA,NA,9,1,1,NA,NA,NA,NA,NA,NA,NA,10,9,1,1,NA
+Airline,VietJet Air,Flight Delays,26,NA,NA,3,3,NA,NA,25,1,NA,NA,1,NA,NA,NA,NA,NA,26,25,1,1,NA
+Airline,Cathay Pacific,Baggage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airline,Cathay Pacific,Check-in & Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airline,Cathay Pacific,Check-in &amp; Boarding,3,NA,NA,3,3,NA,NA,2,1,NA,NA,NA,1,NA,NA,NA,NA,3,2,1,1,NA
+Airline,Cathay Pacific,Flight Delays,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,2,4,2,2,2,NA
+Airline,Cathay Pacific,"Ticketing, Fares & Refunds",18,NA,NA,18,18,NA,NA,16,2,1,1,NA,NA,NA,NA,NA,3,18,15,3,3,NA
+Airline,Cathay Pacific,"Ticketing, Fares &amp; Refunds",6,NA,NA,6,6,NA,NA,5,1,NA,NA,1,NA,NA,NA,NA,NA,6,5,1,1,NA
+Airline,Jetlite,Baggage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Jetlite,Flight Delays,9,NA,NA,9,9,NA,NA,8,1,1,NA,NA,NA,NA,NA,NA,2,9,6,3,3,NA
+Airline,Air Manas,Check-in & Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,2,2,NA
+Airline,Air Manas,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Singapore Airlines,Baggage,12,NA,NA,11,11,NA,NA,10,2,1,NA,NA,1,NA,NA,NA,1,12,10,2,2,NA
+Airline,Turkish Airlines,Flight Delays,13,NA,NA,11,11,NA,NA,12,1,1,NA,NA,NA,NA,NA,NA,3,13,12,1,1,NA
+Airline,Turkish Airlines,"Ticketing, Fares & Refunds",33,NA,NA,33,33,NA,NA,28,5,4,NA,1,NA,NA,NA,NA,1,33,28,5,5,NA
+Airline,Air Arabia,Check-in & Boarding,14,NA,NA,13,13,NA,NA,11,3,3,NA,NA,NA,NA,NA,NA,2,14,11,3,3,NA
+Airline,Air Arabia,Other,8,NA,NA,7,7,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,1,8,7,1,1,NA
+Airline,Egypt Air,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airline,Egypt Air,Meal,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airline,Egypt Air,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Airline,Egypt Air,"Ticketing, Fares & Refunds",10,NA,NA,10,10,NA,NA,9,1,1,NA,NA,NA,NA,NA,NA,1,10,9,1,1,NA
+Airline,Oman Airlines,Baggage,24,NA,NA,24,24,NA,NA,20,4,2,2,NA,NA,NA,NA,NA,NA,24,20,4,4,NA
+Airline,Oman Airlines,Check-in & Boarding,9,NA,NA,9,9,NA,NA,8,1,NA,1,NA,NA,NA,NA,NA,NA,9,8,1,1,NA
+Airline,Oman Airlines,Flight Delays,5,NA,NA,5,5,NA,NA,2,3,3,NA,NA,NA,NA,NA,NA,NA,5,2,3,3,NA
+Airline,Oman Airlines,Staff / Crew Behavior,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airline,Oman Airlines,"Ticketing, Fares & Refunds",99,NA,NA,99,99,NA,NA,81,18,11,NA,2,5,NA,NA,NA,NA,99,81,18,18,NA
+Airline,Oman Airlines,"Ticketing, Fares &amp; Refunds",17,NA,NA,16,16,NA,NA,16,1,1,NA,NA,NA,NA,NA,NA,NA,17,16,1,1,NA
+Airline,KLM Airlines,Baggage,15,NA,NA,11,11,NA,NA,14,1,1,NA,NA,NA,NA,NA,NA,1,15,13,2,2,NA
+Airline,KLM Airlines,Staff / Crew Behavior,7,NA,NA,7,7,NA,NA,6,1,1,NA,NA,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airline,KLM Airlines,"Ticketing, Fares & Refunds",40,NA,NA,40,40,NA,NA,38,2,2,NA,NA,NA,NA,NA,NA,1,40,38,2,2,NA
+Airline,KLM Airlines,"Ticketing, Fares &amp; Refunds",10,NA,2,1,1,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,NA,10,9,1,1,NA
+Airline,Thai Airways,Baggage,27,NA,NA,26,26,NA,NA,26,1,1,NA,NA,NA,NA,NA,NA,3,27,24,3,3,NA
+Airline,Thai Airways,Check-in & Boarding,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,1,1,NA
+Airline,Thai Airways,Flight Delays,10,NA,NA,4,4,NA,NA,8,2,2,NA,NA,NA,NA,NA,NA,2,10,8,2,2,NA
+Airline,Thai Airways,Meal,3,NA,NA,2,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airline,Thai Airways,Other,14,NA,NA,14,14,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,1,14,13,1,1,NA
+Airline,Malaysia Airlines,Baggage,25,NA,1,20,20,NA,NA,22,2,2,NA,NA,NA,NA,NA,NA,3,25,21,4,4,NA
+Airline,Malaysia Airlines,Check-in & Boarding,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airline,Malaysia Airlines,Flight Delays,10,NA,NA,7,7,NA,NA,6,4,NA,3,NA,NA,1,NA,NA,1,10,6,4,4,NA
+Airline,Malaysia Airlines,"Ticketing, Fares &amp; Refunds",33,NA,NA,21,21,NA,NA,32,1,NA,1,NA,NA,NA,NA,NA,1,33,31,2,2,NA
+Airline,IndiGo,Maintenance,104,NA,NA,104,104,NA,NA,89,15,13,2,NA,NA,NA,2,NA,3,104,88,16,16,NA
+Airline,Saudia,Baggage,22,NA,NA,21,21,NA,NA,20,2,2,NA,NA,NA,NA,NA,NA,NA,22,20,2,2,NA
+Airline,Saudia,Check-in &amp; Boarding,7,NA,NA,6,6,NA,NA,6,1,NA,NA,NA,1,NA,NA,NA,NA,7,6,1,1,NA
+Airline,Saudia,Flight Delays,14,NA,NA,12,12,NA,NA,11,3,3,NA,NA,NA,NA,NA,NA,2,14,11,3,3,NA
+Airline,Air Mauritius,Baggage,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,2,5,3,2,2,NA
+Airline,Air Mauritius,Flight Delays,22,NA,NA,18,18,NA,NA,19,3,2,1,NA,NA,NA,NA,NA,NA,22,19,3,3,NA
+Airline,Air Mauritius,Other,8,NA,NA,7,7,NA,NA,7,1,NA,NA,1,NA,NA,NA,NA,NA,8,7,1,1,NA
+Airline,Air Astana,Baggage,4,NA,NA,4,4,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,1,4,3,1,1,NA
+Airline,Air Astana,Check-in &amp; Boarding,6,NA,NA,1,1,NA,NA,5,1,1,NA,NA,NA,NA,NA,NA,NA,6,5,1,1,NA
+Airline,Air Astana,Other,5,NA,NA,5,5,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,5,4,1,1,NA
+Airline,Air Astana,Staff / Crew Behavior,2,NA,NA,2,2,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,2,NA,2,2,NA
+Airline,Air Astana,"Ticketing, Fares & Refunds",3,NA,NA,3,3,NA,NA,2,1,NA,1,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airline,Srilankan Airways,Check-in & Boarding,6,NA,NA,5,5,NA,NA,5,1,NA,NA,1,NA,NA,NA,NA,NA,6,5,1,1,NA
+Airline,Srilankan Airways,Flight Delays,13,NA,NA,6,6,NA,NA,12,1,1,NA,NA,NA,NA,NA,NA,2,13,11,2,2,NA
+Airline,Srilankan Airways,Other,5,NA,NA,5,5,NA,NA,4,1,NA,1,NA,NA,NA,NA,NA,NA,5,4,1,1,NA
+Airline,TruJet,Check-in & Boarding,12,NA,NA,12,12,NA,NA,10,2,2,NA,NA,NA,NA,NA,NA,NA,12,10,2,2,NA
+Airline,TruJet,Flight Delays,66,NA,NA,66,66,NA,NA,57,9,9,NA,NA,NA,NA,1,NA,2,66,56,10,10,NA
+Airline,TruJet,"Ticketing, Fares & Refunds",133,NA,NA,130,130,NA,NA,128,5,4,NA,1,NA,NA,1,NA,4,133,124,9,9,NA
+Airline,Air Seychelles,Baggage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airline,Air Seychelles,Check-in & Boarding,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Airline,Air Seychelles,"Ticketing, Fares & Refunds",13,NA,NA,13,13,NA,NA,12,1,1,NA,NA,NA,NA,NA,NA,NA,13,12,1,1,NA
+Airline,Malindo Airways,Flight Delays,16,NA,1,11,11,NA,NA,12,3,3,NA,NA,NA,NA,NA,NA,NA,16,13,3,3,NA
+Airline,Malindo Airways,Meal,4,NA,NA,4,4,NA,NA,3,1,NA,NA,NA,NA,1,NA,NA,NA,4,3,1,1,NA
+Airline,Malindo Airways,Other,11,NA,NA,10,10,NA,NA,10,1,1,NA,NA,NA,NA,NA,NA,1,11,10,1,1,NA
+Airline,Malindo Airways,Staff / Crew Behavior,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airline,Malindo Airways,"Ticketing, Fares &amp; Refunds",24,NA,NA,19,19,NA,NA,23,1,1,NA,NA,NA,NA,NA,NA,NA,24,22,2,2,NA
+Airline,China Eastern Airlines,Check-in & Boarding,6,NA,NA,6,6,NA,NA,4,2,2,NA,NA,NA,NA,NA,NA,NA,6,4,2,2,NA
+Airline,China Eastern Airlines,Flight Delays,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airline,SpiceJet,Cleanliness,12,NA,NA,10,10,NA,NA,9,3,3,NA,NA,NA,NA,NA,NA,NA,12,9,3,3,NA
+Airline,SpiceJet,Person With Disability,35,NA,NA,34,34,NA,NA,28,7,6,NA,NA,NA,1,NA,NA,NA,35,28,7,7,NA
+Airline,Swiss Air,Staff / Crew Behavior,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Helicopter - General Aviation,NA,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Helicopter - General Aviation,NA,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Helicopter - General Aviation,NA,NA,7,NA,NA,7,7,NA,NA,6,1,1,NA,NA,NA,NA,NA,NA,1,7,5,2,2,NA
+Helicopter - General Aviation,NA,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Helicopter - General Aviation,NA,NA,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,2,2,NA
+Helicopter - General Aviation,NA,NA,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,4,4,NA
+DGCA,DGCA,Engineering Training School,8,NA,NA,8,8,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,NA,8,7,1,1,NA
+DGCA,DGCA,Examination,61,NA,NA,61,61,NA,NA,55,6,4,NA,NA,NA,2,NA,NA,NA,61,54,7,7,NA
+Customs,Mumbai,Arrival,19,1,NA,18,18,NA,NA,17,1,1,NA,NA,NA,NA,NA,NA,NA,19,18,1,1,NA
+Customs,Mangalore,Arrival,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,1,3,1,2,2,NA
+Customs,Delhi,Arrival,19,NA,NA,19,19,NA,NA,18,1,1,NA,NA,NA,NA,NA,NA,NA,19,18,1,1,NA
+Customs,Ahmedabad,Arrival,13,NA,NA,13,13,NA,NA,12,1,1,NA,NA,NA,NA,NA,NA,NA,13,12,1,1,NA
+Customs,Calicut,Arrival,6,NA,NA,6,6,NA,NA,4,2,1,1,NA,NA,NA,NA,NA,2,6,3,3,3,NA
+Customs,Chennai,Arrival,12,NA,NA,12,12,NA,NA,11,1,1,NA,NA,NA,NA,NA,NA,NA,12,11,1,1,NA
+Immigration,Thiruvananthapuram,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Immigration,Mumbai,Arrival,36,NA,NA,36,36,NA,NA,33,3,1,NA,NA,1,1,NA,NA,1,36,33,3,3,NA
+Immigration,Mumbai,Other,4,NA,NA,4,4,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Immigration,Kolkata,Arrival,5,NA,NA,5,5,NA,NA,3,2,2,NA,NA,NA,NA,NA,NA,NA,5,3,2,2,NA
+Immigration,Patna,Other,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Immigration,Pune,Departure,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,2,2,NA
+Immigration,Delhi,Arrival,27,NA,NA,27,27,NA,NA,26,1,1,NA,NA,NA,NA,NA,NA,NA,27,26,1,1,NA
+Immigration,Chennai,Arrival,19,NA,NA,19,19,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,1,19,18,1,1,NA
+Immigration,Chennai,Departure,36,NA,NA,36,36,NA,NA,33,3,2,1,NA,NA,NA,NA,NA,NA,36,33,3,3,NA
+Immigration,Mangalore,Departure,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Immigration,Hyderabad,Other,1,NA,NA,1,1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Immigration,Tiruchirappalli,Arrival,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Immigration,Tiruchirappalli,Departure,4,NA,NA,4,4,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Immigration,Madurai,Departure,4,NA,NA,4,4,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,4,2,2,2,NA
+BCAS,BCAS,Entry Passes,16,NA,NA,16,16,NA,NA,15,1,1,NA,NA,NA,NA,NA,NA,NA,16,15,1,1,NA
+BCAS,BCAS,Other,125,NA,NA,124,124,NA,NA,117,8,8,NA,NA,NA,NA,1,NA,11,125,111,14,14,NA
+BCAS,BCAS,Security Program Approval,6,NA,NA,6,6,NA,NA,5,1,NA,1,NA,NA,NA,NA,NA,1,6,5,1,1,NA
+Airport,Hyderabad,Retail Shops / Food &amp; Beverage,11,NA,NA,11,11,NA,NA,9,2,NA,NA,NA,2,NA,NA,NA,NA,11,9,2,2,NA
+Airport,Hyderabad,Seating / Waiting Area,15,NA,NA,15,15,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,14,1,1,NA
+Airport,Hyderabad,Signages / Flight Display,4,NA,NA,4,4,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airport,Hyderabad,Taxi / Parking,26,NA,NA,26,26,NA,NA,18,8,8,NA,NA,NA,NA,NA,NA,NA,26,18,8,8,NA
+Airport,Hyderabad,Trolly / Ameniites / Buggy / Wifi,9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,8,1,1,NA
+Airport,Thiruvananthapuram,Cleanliness / Hygiene,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,1,6,5,1,1,NA
+Airport,Delhi,Air Conditioning / Maintenance,18,NA,NA,14,14,NA,NA,17,1,1,NA,NA,NA,NA,NA,NA,2,18,17,1,1,NA
+Airport,Delhi,Person With Disability,15,NA,NA,14,14,NA,NA,13,2,1,NA,1,NA,NA,NA,NA,3,15,12,3,3,NA
+Airport,Delhi,Seating / Waiting Area,47,NA,NA,47,47,NA,NA,42,5,5,NA,NA,NA,NA,1,NA,3,47,42,5,5,NA
+Airport,Delhi,Signages / Flight Display,16,NA,NA,16,16,NA,NA,15,1,NA,1,NA,NA,NA,NA,NA,1,16,15,1,1,NA
+Airport,Delhi,Staff / Crew behavoiur,78,NA,NA,78,78,NA,NA,73,5,2,2,NA,NA,1,1,NA,4,78,73,5,5,NA
+Airport,Varanasi,Other,15,NA,1,14,14,NA,NA,10,4,3,1,NA,NA,NA,NA,NA,NA,15,11,4,4,NA
+Airport,Varanasi,Signages / Flight Display,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Varanasi,Trolly / Ameniites / Buggy / Wifi,5,NA,NA,4,4,NA,NA,4,1,NA,NA,NA,1,NA,NA,NA,NA,5,4,1,1,NA
+Airport,Bhubaneswar,Cleanliness / Hygiene,14,NA,NA,14,14,NA,NA,13,1,1,NA,NA,NA,NA,1,NA,1,14,13,1,1,NA
+Airport,Bhubaneswar,Retail Shops / Food & Beverage,5,NA,NA,5,5,NA,NA,3,2,2,NA,NA,NA,NA,NA,NA,NA,5,3,2,2,NA
+Airport,Bhubaneswar,Taxi / Parking,23,NA,NA,23,23,NA,NA,19,4,3,NA,1,NA,NA,NA,NA,NA,23,19,4,4,NA
+Airport,Calicut,Baggage / Lost &amp; Found ,7,NA,NA,6,6,NA,NA,6,1,1,NA,NA,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airport,Calicut,Seating / Waiting Area,8,NA,NA,8,8,NA,NA,7,1,NA,NA,1,NA,NA,NA,NA,NA,8,7,1,1,NA
+Airport,Nagpur,Baggage / Lost & Found ,2,NA,NA,2,2,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Nagpur,Seating / Waiting Area,10,NA,NA,10,10,NA,NA,9,1,1,NA,NA,NA,NA,NA,NA,NA,10,9,1,1,NA
+Airport,Nagpur,Taxi / Parking,13,NA,NA,13,13,NA,NA,12,1,1,NA,NA,NA,NA,NA,NA,NA,13,12,1,1,NA
+Airport,Aurangabad,Taxi / Parking,10,NA,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,1,10,9,1,1,NA
+Airport,Madurai,Seating / Waiting Area,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Bagdogra,Cleanliness / Hygiene,9,NA,NA,7,7,NA,NA,8,1,NA,1,NA,NA,NA,NA,NA,NA,9,8,1,1,NA
+Airport,Bagdogra,Other,23,NA,NA,23,23,NA,NA,20,3,1,1,1,NA,NA,NA,NA,NA,23,20,3,3,NA
+Airport,Bagdogra,Retail Shops / Food & Beverage,9,NA,NA,9,9,NA,NA,8,1,1,NA,NA,NA,NA,NA,NA,1,9,8,1,1,NA
+Airport,Bagdogra,Taxi / Parking,9,NA,NA,9,9,NA,NA,8,1,NA,1,NA,NA,NA,NA,NA,NA,9,8,1,1,NA
+Airport,Bagdogra,Trolly / Ameniites / Buggy / Wifi,7,NA,NA,7,7,NA,NA,6,1,1,NA,NA,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airport,MIHAN,Taxi / Parking,4,1,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airport,Lucknow,Air Conditioning / Maintenance,13,NA,NA,13,13,NA,NA,12,1,NA,NA,1,NA,NA,NA,NA,NA,13,12,1,1,NA
+Airport,Lucknow,Baggage / Lost & Found ,19,NA,NA,19,19,NA,NA,16,3,1,NA,2,NA,NA,NA,NA,NA,19,16,3,3,NA
+Airport,Lucknow,Taxi / Parking,14,NA,NA,14,14,NA,NA,13,1,1,NA,NA,NA,NA,NA,NA,1,14,13,1,1,NA
+Airport,Kochi,Air Conditioning / Maintenance,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airport,Kochi,Seating / Waiting Area,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,1,1,NA
+Airport,Kochi,Signages / Flight Display,2,NA,NA,2,2,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,2,NA,2,2,NA
+Airport,Kochi,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Pondicherry,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,1,1,NA
+Airport,Mumbai,Person With Disability,16,NA,NA,14,14,NA,NA,15,1,1,NA,NA,NA,NA,NA,NA,NA,16,15,1,1,NA
+Airport,Mumbai,Seating / Waiting Area,22,NA,NA,22,22,NA,NA,19,3,3,NA,NA,NA,NA,NA,NA,NA,22,19,3,3,NA
+Airport,Mumbai,Staff / Crew behavoiur,41,NA,NA,41,41,NA,NA,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,40,1,1,NA
+Airport,Mumbai,Taxi / Parking,95,NA,NA,93,93,NA,NA,83,12,10,2,NA,NA,NA,NA,NA,3,95,82,13,13,NA
+Airport,Visakhapatnam,Other,12,NA,NA,12,12,NA,NA,11,1,1,NA,NA,NA,NA,1,NA,1,12,11,1,1,NA
+Airport,Visakhapatnam,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airport,Amritsar,Cleanliness / Hygiene,11,NA,NA,11,11,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,1,11,10,1,1,NA
+Airport,Amritsar,Taxi / Parking,12,NA,NA,12,12,NA,NA,9,3,2,NA,1,NA,NA,NA,NA,NA,12,9,3,3,NA
+Airport,Leh,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airport,Rajahmundry,Taxi / Parking,7,NA,NA,7,7,NA,NA,6,1,1,NA,NA,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airport,Rajahmundry,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,1,NA,1,1,NA
+Airport,Patna,Staff / Crew behavoiur,12,NA,NA,12,12,NA,NA,10,2,2,NA,NA,NA,NA,NA,NA,NA,12,10,2,2,NA
+Airport,Patna,Taxi / Parking,15,NA,NA,15,15,NA,NA,14,1,1,NA,NA,NA,NA,NA,NA,NA,15,14,1,1,NA
+Airport,Patna,Trolly / Ameniites / Buggy / Wifi,5,NA,NA,5,5,NA,NA,4,1,NA,1,NA,NA,NA,NA,NA,NA,5,4,1,1,NA
+Airport,Jodhpur,Taxi / Parking,4,NA,NA,3,3,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airport,Ludhiana,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airport,Dehradun,Baggage / Lost &amp; Found ,7,NA,NA,5,5,NA,NA,6,1,NA,NA,NA,NA,1,NA,NA,1,7,6,1,1,NA
+Airport,Dehradun,Taxi / Parking,19,NA,NA,19,19,NA,NA,18,1,1,NA,NA,NA,NA,NA,NA,NA,19,18,1,1,NA
+Airport,Port Blair,Baggage / Lost &amp; Found ,8,NA,NA,8,8,NA,NA,7,1,NA,1,NA,NA,NA,NA,NA,NA,8,7,1,1,NA
+Airport,Kannur International Airport,Other,2,NA,NA,2,2,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Ahmedabad,Air Conditioning / Maintenance,11,NA,NA,9,9,NA,NA,10,1,NA,NA,NA,NA,1,NA,NA,1,11,10,1,1,NA
+Airport,Ahmedabad,Baggage / Lost & Found ,40,NA,NA,36,36,NA,NA,36,4,2,NA,2,NA,NA,NA,NA,NA,40,36,4,4,NA
+Airport,Ahmedabad,Retail Shops / Food & Beverage,23,NA,NA,23,23,NA,NA,22,1,1,NA,NA,NA,NA,NA,NA,NA,23,22,1,1,NA
+Airport,Ahmedabad,Staff / Crew behavoiur,11,NA,NA,8,8,NA,NA,10,1,NA,NA,1,NA,NA,NA,NA,1,11,10,1,1,NA
+Airport,Ahmedabad,Trolly / Ameniites / Buggy / Wifi,18,NA,NA,16,16,NA,NA,16,2,1,1,NA,NA,NA,NA,NA,NA,18,16,2,2,NA
+Airport,Jaipur,Cleanliness / Hygiene,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,1,8,7,1,1,NA
+Airport,Jaipur,Other,26,NA,NA,26,26,NA,NA,25,1,NA,NA,NA,NA,1,NA,NA,NA,26,25,1,1,NA
+Airport,Jaipur,Taxi / Parking,9,NA,NA,9,9,NA,NA,8,1,1,NA,NA,NA,NA,NA,NA,NA,9,8,1,1,NA
+Airport,Bengaluru,Air Conditioning / Maintenance,5,NA,NA,5,5,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,5,4,1,1,NA
+Airport,Vijayawada,Seating / Waiting Area,10,NA,NA,10,10,NA,NA,9,1,NA,NA,1,NA,NA,NA,NA,NA,10,9,1,1,NA
+Airport,Vijayawada,Taxi / Parking,36,NA,NA,35,35,NA,NA,28,8,4,3,1,NA,NA,NA,NA,NA,36,28,8,8,NA
+Airport,Ranchi,Cleanliness / Hygiene,7,NA,NA,7,7,NA,NA,5,2,1,NA,1,NA,NA,NA,NA,NA,7,5,2,2,NA
+Airport,Ranchi,Signages / Flight Display,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,1,1,NA
+Airport,Ranchi,Staff / Crew behavoiur,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airport,Ranchi,Taxi / Parking,8,NA,NA,8,8,NA,NA,6,2,1,NA,NA,NA,1,NA,NA,NA,8,6,2,2,NA
+Airport,Indore,Cleanliness / Hygiene,9,NA,NA,8,8,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,8,1,1,NA
+Airport,Indore,Retail Shops / Food & Beverage,3,NA,NA,3,3,NA,NA,1,2,2,NA,NA,NA,NA,NA,NA,NA,3,1,2,2,NA
+Airport,Vadodara,Baggage / Lost & Found ,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Vadodara,Other,14,NA,NA,14,14,NA,NA,11,3,1,1,1,NA,NA,NA,NA,NA,14,11,3,3,NA
+Airport,Allahabad,Other,3,NA,NA,3,3,NA,NA,2,1,NA,NA,1,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Allahabad,Person With Disability,1,NA,NA,1,1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Airport,Allahabad,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Airport,Raipur,Cleanliness / Hygiene,4,NA,NA,4,4,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,NA
+Airport,Raipur,Retail Shops / Food &amp; Beverage,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,2,4,2,2,2,NA
+Airport,Raipur,Taxi / Parking,50,NA,NA,50,50,NA,NA,43,7,7,NA,NA,NA,NA,NA,NA,2,50,43,7,7,NA
+Airport,Chandigarh,Baggage / Lost & Found ,14,NA,NA,14,14,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,1,14,13,1,1,NA
+Airport,Chandigarh,Retail Shops / Food & Beverage,9,NA,NA,9,9,NA,NA,5,4,4,NA,NA,NA,NA,NA,NA,1,9,5,4,4,NA
+Airport,Chandigarh,Retail Shops / Food &amp; Beverage,6,NA,NA,4,4,NA,NA,4,2,2,NA,NA,NA,NA,NA,NA,NA,6,4,2,2,NA
+Airport,Chandigarh,Signages / Flight Display,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Chandigarh,Taxi / Parking,11,NA,NA,10,10,NA,NA,10,1,NA,NA,NA,1,NA,NA,NA,3,11,9,2,2,NA
+Airport,Pune,Air Conditioning / Maintenance,15,NA,NA,15,15,NA,NA,13,2,2,NA,NA,NA,NA,NA,NA,NA,15,13,2,2,NA
+Airport,Pune,Seating / Waiting Area,31,NA,NA,31,31,NA,NA,28,3,2,NA,1,NA,NA,NA,NA,NA,31,28,3,3,NA
+Airport,Udaipur,Air Conditioning / Maintenance,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Udaipur,Retail Shops / Food & Beverage,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Tirupati,Seating / Waiting Area,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,1,NA
+Airport,Tirupati,Taxi / Parking,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Belgaum,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airport,Guwahati,Seating / Waiting Area,11,NA,NA,11,11,NA,NA,10,1,1,NA,NA,NA,NA,NA,NA,NA,11,9,2,2,NA
+Airport,Guwahati,Staff / Crew behavoiur,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Guwahati,Trolly / Ameniites / Buggy / Wifi,15,NA,NA,15,15,NA,NA,11,4,4,NA,NA,NA,NA,NA,NA,NA,15,11,4,4,NA
+Airport,Chennai,Air Conditioning / Maintenance,32,NA,NA,32,32,NA,NA,31,1,NA,NA,NA,1,NA,NA,NA,NA,32,30,2,2,NA
+Airport,Chennai,Signages / Flight Display,29,NA,NA,29,29,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,28,1,1,NA
+Airport,Chennai,Taxi / Parking,68,NA,NA,68,68,NA,NA,61,7,5,NA,1,1,NA,NA,NA,NA,68,61,7,7,NA
+Airport,Darbhanga,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Surat,Baggage / Lost &amp; Found ,3,NA,NA,NA,NA,NA,NA,2,1,NA,1,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Surat,Retail Shops / Food & Beverage,5,NA,NA,5,5,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,5,4,1,1,NA
+Airport,Surat,Signages / Flight Display,9,NA,NA,9,9,NA,NA,7,2,2,NA,NA,NA,NA,NA,NA,NA,9,7,2,2,NA
+Airport,Lilabari,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Jammu,Taxi / Parking,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Bhopal,Trolly / Ameniites / Buggy / Wifi,7,NA,NA,7,7,NA,NA,6,1,1,NA,NA,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airport,Dibrugarh,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Airport,Agartala,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airport,Tiruchirappalli,Other,10,NA,NA,10,10,NA,NA,9,1,NA,NA,NA,NA,1,NA,NA,1,10,7,3,3,NA
+Airport,Goa,Other,31,NA,NA,31,31,NA,NA,28,3,2,NA,NA,1,NA,1,NA,2,31,27,4,4,NA
+Airport,Goa,Retail Shops / Food &amp; Beverage,2,NA,NA,2,2,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Goa,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Airport,Goa,Taxi / Parking,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Goa,Trolly / Ameniites / Buggy / Wifi,9,NA,NA,9,9,NA,NA,7,2,2,NA,NA,NA,NA,NA,NA,NA,9,7,2,2,NA
+Airport,Kolkata,Baggage / Lost & Found ,53,NA,NA,51,51,NA,NA,50,3,1,1,1,NA,NA,NA,NA,1,53,49,4,4,NA
+Airport,Kolkata,Retail Shops / Food & Beverage,12,1,NA,11,11,NA,NA,8,3,3,NA,NA,NA,NA,NA,NA,NA,12,9,3,3,NA
+Airport,Kolkata,Staff / Crew behavoiur,29,NA,NA,29,29,NA,NA,28,1,NA,1,NA,NA,NA,NA,NA,1,29,28,1,1,NA
+Airport,Kolkata,Taxi / Parking,23,NA,NA,23,23,NA,NA,20,3,3,NA,NA,NA,NA,1,NA,NA,23,20,3,3,NA
+Airport,Cooch-Behar,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,1,1,NA
+Airport,Srinagar,Staff / Crew behavoiur,7,NA,NA,7,7,NA,NA,6,1,NA,NA,1,NA,NA,NA,NA,NA,7,6,1,1,NA
+Airport,Srinagar,Taxi / Parking,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Airport,Mangalore,Other,6,NA,NA,6,6,NA,NA,5,1,1,NA,NA,NA,NA,NA,NA,NA,6,5,1,1,NA
+Airport,Mangalore,Taxi / Parking,10,NA,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,9,1,1,NA
+Security,Coimbatore,Boarding Gate,2,NA,NA,2,2,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Security,Chennai,Terminal Entry,16,NA,NA,16,16,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,1,16,15,1,1,NA
+Security,Rajahmundry,Security Check,3,NA,NA,3,3,NA,NA,2,1,NA,NA,1,NA,NA,NA,NA,NA,3,2,1,1,NA
+Security,Delhi,Other,39,NA,NA,39,39,NA,NA,38,1,1,NA,NA,NA,NA,NA,NA,NA,39,38,1,1,NA
+Security,Patna,NA,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Security,Visakhapatnam,Security Check,6,NA,NA,6,6,NA,NA,5,1,1,NA,NA,NA,NA,NA,NA,NA,6,5,1,1,NA
+Security,Pune,Other,6,NA,NA,6,6,NA,NA,4,2,1,1,NA,NA,NA,NA,NA,NA,6,4,2,2,NA
+Security,Pune,Security Check,23,NA,NA,23,23,NA,NA,22,1,1,NA,NA,NA,NA,NA,NA,NA,23,22,1,1,NA
+Security,Udaipur,Other,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Security,Jammu,Security Check,6,NA,NA,6,6,NA,NA,3,3,1,2,NA,NA,NA,NA,NA,1,6,3,3,3,NA
+Security,Ahmedabad,Boarding Gate,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Security,Ahmedabad,Other,9,NA,NA,9,9,NA,NA,8,1,NA,NA,1,NA,NA,NA,NA,NA,9,8,1,1,NA
+Security,Srinagar,Other,2,NA,NA,2,2,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA,NA,2,1,1,1,NA
+Security,Kolhapur,Security Check,3,NA,NA,3,3,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,NA
+Security,Raipur,Security Check,5,NA,NA,5,5,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,5,4,1,1,NA
+Security,Hyderabad,Boarding Gate,1,NA,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,1,NA
+Security,Hyderabad,Other,5,NA,NA,5,5,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,5,4,1,1,NA
+Security,Hyderabad,Terminal Entry,10,NA,NA,10,10,NA,NA,9,1,1,NA,NA,NA,NA,NA,NA,NA,10,9,1,1,NA
+Security,Surat,Terminal Entry,4,NA,NA,4,4,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,4,2,2,2,NA
+Security,Bengaluru,Security Check,49,NA,NA,48,48,NA,NA,46,3,1,1,1,NA,NA,NA,NA,NA,49,46,3,3,NA
+Security,Bengaluru,Terminal Entry,16,NA,NA,16,16,NA,NA,15,1,NA,NA,1,NA,NA,NA,NA,NA,16,15,1,1,NA
+Security,Guwahati,Security Check,14,NA,NA,14,14,NA,NA,13,1,1,NA,NA,NA,NA,NA,NA,NA,14,13,1,1,NA
+Airline,NA,Check-in &amp; Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,NA,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,NA,"Ticketing, Fares &amp; Refunds",6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airline,Aeroflot,Check-in &amp; Boarding,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Aeroflot,Meal,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Aeroflot,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Aeroflot,"Ticketing, Fares &amp; Refunds",7,NA,NA,2,2,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airline,Emirates Airline,Check-in &amp; Boarding,5,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Emirates Airline,Flight Delays,21,NA,NA,17,17,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,21,NA,NA,NA
+Airline,Emirates Airline,Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Emirates Airline,Meal,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Emirates Airline,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Emirates Airline,Staff / Crew Behavior,13,NA,NA,11,11,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA,NA
+Airline,Emirates Airline,"Ticketing, Fares &amp; Refunds",21,NA,1,13,13,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,21,NA,NA,NA
+Airline,Kuwait Airways,Baggage,20,NA,1,19,19,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,20,NA,NA,NA
+Airline,Kuwait Airways,Check-in &amp; Boarding,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Kuwait Airways,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Kuwait Airways,"Ticketing, Fares &amp; Refunds",4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,All Nippon Airways,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,All Nippon Airways,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,All Nippon Airways,"Ticketing, Fares & Refunds",8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,1,NA,1,8,8,NA,NA,NA
+Airline,United Airlines,Baggage,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,United Airlines,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,United Airlines,Check-in &amp; Boarding,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,United Airlines,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,United Airlines,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,United Airlines,"Ticketing, Fares &amp; Refunds",12,NA,NA,9,9,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,12,NA,NA,NA
+Airline,Biman Bangladesh,Flight Delays,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Biman Bangladesh,Staff / Crew Behavior,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Qatar Airways,NA,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,2,3,4,5,5,NA,NA,NA
+Airline,Qatar Airways,Check-in &amp; Boarding,11,NA,NA,2,2,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airline,Qatar Airways,Cleanliness,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Qatar Airways,Meal,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Qatar Airways,Other,15,NA,NA,13,13,NA,NA,15,NA,NA,NA,NA,NA,NA,1,NA,NA,15,15,NA,NA,NA
+Airline,Qatar Airways,Person With Disability,2,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Qatar Airways,Staff / Crew Behavior,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Air Canada,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Air Canada,Check-in &amp; Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Canada,Flight Delays,4,NA,NA,3,3,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,Air Canada,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Canada,Staff / Crew Behavior,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Virgin Atlantic,Baggage,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,2,6,6,NA,NA,NA
+Airline,Virgin Atlantic,Check-in &amp; Boarding,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Virgin Atlantic,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Virgin Atlantic,Other,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Virgin Atlantic,Person With Disability,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Virgin Atlantic,"Ticketing, Fares & Refunds",1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airline,China Southern,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,China Southern,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,China Southern,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,China Southern,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Costa,Baggage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Air Costa,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Asia Berhad (Intl Tickets),Check-in & Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Air Asia Berhad (Intl Tickets),Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Asia Berhad (Intl Tickets),Staff / Crew Behavior,1,NA,NA,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Ethiopian Airlines,Staff / Crew Behavior,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Tiger Airways,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,GoAir,NA,90,NA,NA,90,90,NA,NA,90,NA,NA,NA,NA,NA,NA,87,2,77,90,90,NA,NA,NA
+Airline,Gulf Air,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,1,NA,NA,NA
+Airline,Gulf Air,Staff / Crew Behavior,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Gulf Air,"Ticketing, Fares &amp; Refunds",8,NA,NA,3,3,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,1,8,8,NA,NA,NA
+Airline,Shandong Airlines,"Ticketing, Fares & Refunds",3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,British Airways,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,British Airways,Check-in &amp; Boarding,7,NA,1,1,1,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airline,British Airways,Meal,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,British Airways,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,British Airways,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,British Airways,"Ticketing, Fares &amp; Refunds",31,NA,3,13,13,NA,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,31,NA,NA,NA
+Airline,Yemenia Airways,"Ticketing, Fares & Refunds",2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Air China,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air China,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Lufthansa,NA,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,3,NA,3,3,3,NA,NA,NA
+Airline,Lufthansa,Staff / Crew Behavior,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Dragon Air,Baggage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Dragon Air,"Ticketing, Fares & Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Star Air,Check-in &amp; Boarding,5,1,NA,3,3,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Star Air,Flight Delays,7,NA,NA,1,1,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airline,Star Air,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Star Air,Staff / Crew Behavior,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Star Air,"Ticketing, Fares &amp; Refunds",6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airline,Ariana Afgan,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Kam Air,Check-in & Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Etihad Airways,Check-in &amp; Boarding,11,NA,NA,NA,NA,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airline,Etihad Airways,Maintenance,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Etihad Airways,Person With Disability,4,NA,NA,3,3,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,United Airlines Bangladesh Ltd,"Ticketing, Fares & Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Iran Air,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Silk Air,Baggage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Silk Air,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Silk Air,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,AirAsia India,NA,26,NA,NA,26,26,NA,NA,26,NA,NA,NA,NA,NA,NA,25,NA,23,26,26,NA,NA,NA
+Airline,AirAsia India,Cleanliness,6,NA,NA,5,5,NA,NA,6,NA,NA,NA,NA,NA,NA,1,NA,1,6,6,NA,NA,NA
+Airline,Ukraine International,Check-in & Boarding,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Ukraine International,Check-in &amp; Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Ukraine International,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Ukraine International,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Ukraine International,"Ticketing, Fares & Refunds",1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Ukraine International,"Ticketing, Fares &amp; Refunds",2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Buddha Air,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Buddha Air,"Ticketing, Fares &amp; Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air France,Baggage,18,NA,NA,12,12,NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,18,NA,NA,NA
+Airline,Air France,Check-in &amp; Boarding,6,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airline,Air France,Flight Delays,3,NA,NA,2,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Air France,Maintenance,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air France,Meal,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Air France,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air France,"Ticketing, Fares &amp; Refunds",13,NA,1,4,4,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA,NA
+Airline,Asiana Airlines,Baggage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Asiana Airlines,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Thai Air Asia,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Thai Air Asia,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,FlyBig,Baggage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,FlyBig,Check-in &amp; Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA
+Airline,FlyBig,Flight Delays,17,NA,NA,4,4,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,17,NA,NA,NA
+Airline,FlyBig,Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,FlyBig,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,FlyBig,"Ticketing, Fares &amp; Refunds",15,NA,NA,13,13,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,15,NA,NA,NA
+Airline,Fly Dubai,Baggage,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airline,Fly Dubai,Check-in &amp; Boarding,5,NA,NA,1,1,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Fly Dubai,Flight Delays,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Fly Dubai,Other,8,NA,NA,7,7,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airline,Eva Airways,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Jet Airways,NA,21,NA,NA,21,21,NA,NA,21,NA,NA,NA,NA,NA,NA,21,NA,19,21,21,NA,NA,NA
+Airline,Jet Airways,Person With Disability,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,IndiaOne Air,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,IndiaOne Air,Other,4,NA,NA,3,3,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,IndiaOne Air,"Ticketing, Fares &amp; Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Kenya Airways,Baggage,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Kenya Airways,Check-in & Boarding,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Kenya Airways,Flight Delays,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Kenya Airways,"Ticketing, Fares & Refunds",8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airline,Kenya Airways,"Ticketing, Fares &amp; Refunds",5,NA,1,1,1,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Mahan Air,Baggage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Nepal Airlines Corporation,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,1,NA,NA,NA
+Airline,Nepal Airlines Corporation,Baggage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Nepal Airlines Corporation,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Nepal Airlines Corporation,Check-in &amp; Boarding,3,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Nepal Airlines Corporation,Other,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Nepal Airlines Corporation,"Ticketing, Fares &amp; Refunds",8,NA,2,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airline,Iraqi Airways,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Iraqi Airways,"Ticketing, Fares & Refunds",3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Alliance Air (India),Maintenance,8,NA,NA,7,7,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airline,Alliance Air (India),Meal,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,Alliance Air (India),Person With Disability,3,NA,NA,2,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,VietJet Air,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,VietJet Air,Other,24,1,NA,21,21,NA,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,24,NA,NA,NA
+Airline,Cathay Pacific,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Cathay Pacific,Staff / Crew Behavior,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Jetlite,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Jetlite,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Jetlite,"Ticketing, Fares & Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Manas,"Ticketing, Fares & Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Singapore Airlines,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Singapore Airlines,Check-in & Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Singapore Airlines,Check-in &amp; Boarding,3,NA,NA,1,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Singapore Airlines,Flight Delays,7,NA,NA,6,6,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airline,Singapore Airlines,Meal,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Singapore Airlines,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Singapore Airlines,Staff / Crew Behavior,4,NA,NA,2,2,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,Singapore Airlines,"Ticketing, Fares &amp; Refunds",23,NA,NA,16,16,NA,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,23,NA,NA,NA
+Airline,Turkish Airlines,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Turkish Airlines,Check-in & Boarding,9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airline,Turkish Airlines,Check-in &amp; Boarding,8,NA,NA,4,4,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airline,Turkish Airlines,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Turkish Airlines,Other,11,NA,NA,11,11,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airline,Turkish Airlines,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Arabia,Check-in &amp; Boarding,8,NA,NA,1,1,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airline,Air Arabia,Flight Delays,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA
+Airline,Air Arabia,Meal,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA
+Airline,Air Arabia,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Arabia,Staff / Crew Behavior,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Air Arabia,"Ticketing, Fares &amp; Refunds",14,NA,NA,11,11,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,14,NA,NA,NA
+Airline,Vistara,NA,20,NA,NA,20,20,NA,NA,20,NA,NA,NA,NA,NA,NA,20,NA,19,20,20,NA,NA,NA
+Airline,Vistara,Cleanliness,4,NA,NA,3,3,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,Vistara,Maintenance,20,NA,NA,20,20,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,20,NA,NA,NA
+Airline,Egypt Air,Baggage,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Egypt Air,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Egypt Air,"Ticketing, Fares &amp; Refunds",2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA
+Airline,Oman Airlines,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Oman Airlines,Check-in &amp; Boarding,4,NA,NA,2,2,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,Oman Airlines,Meal,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,Oman Airlines,Other,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,KLM Airlines,NA,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,2,NA,NA,2,2,NA,NA,NA
+Airline,KLM Airlines,Check-in & Boarding,6,NA,NA,4,4,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airline,KLM Airlines,Check-in &amp; Boarding,3,NA,NA,1,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,KLM Airlines,Flight Delays,9,NA,NA,3,3,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airline,KLM Airlines,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Thai Airways,NA,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,2,NA,2,2,2,NA,NA,NA
+Airline,Thai Airways,Check-in &amp; Boarding,12,NA,NA,3,3,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,12,NA,NA,NA
+Airline,Malaysia Airlines,Check-in &amp; Boarding,3,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Malaysia Airlines,Meal,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Malaysia Airlines,Other,4,NA,1,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,1,NA,1,4,4,NA,NA,NA
+Airline,Malaysia Airlines,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,IndiGo,NA,49,NA,NA,49,49,NA,NA,49,NA,NA,NA,NA,NA,NA,49,NA,48,49,49,NA,NA,NA
+Airline,Saudia,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Mauritius,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Air Mauritius,Check-in &amp; Boarding,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Bangkok Airways,Flight Delays,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Bangkok Airways,"Ticketing, Fares & Refunds",9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airline,Air Astana,Check-in & Boarding,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Air Astana,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Astana,Meal,6,NA,NA,5,5,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,1,6,6,NA,NA,NA
+Airline,Air Astana,"Ticketing, Fares &amp; Refunds",2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,EL-AL-Israel,"Ticketing, Fares & Refunds",3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Srilankan Airways,Baggage,12,NA,NA,11,11,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,2,12,12,NA,NA,NA
+Airline,Srilankan Airways,Check-in &amp; Boarding,9,NA,1,1,1,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airline,Srilankan Airways,Staff / Crew Behavior,4,NA,NA,4,4,1,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,NA,NA,NA
+Airline,Finn Air,Baggage,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA
+Airline,Finn Air,Check-in & Boarding,5,NA,NA,4,4,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Finn Air,Meal,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Finn Air,Other,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Finn Air,"Ticketing, Fares &amp; Refunds",2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,TruJet,NA,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,2,NA,2,2,2,NA,NA,NA
+Airline,TruJet,Baggage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,TruJet,Maintenance,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,TruJet,Staff / Crew Behavior,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,TruJet,"Ticketing, Fares &amp; Refunds",12,NA,NA,NA,NA,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,12,NA,NA,NA
+Airline,Akasa Air,Meal,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Akasa Air,Person With Disability,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Akasa Air,Staff / Crew Behavior,13,NA,NA,13,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA,NA
+Airline,Akasa Air,"Ticketing, Fares & Refunds",1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Turkmenistan Airlines,Check-in & Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Alliance Air,Other,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,NA,NA,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,3,3,3,NA,NA,NA
+Airline,Korean Air,Flight Delays,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA
+Airline,Korean Air,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airline,Korean Air,"Ticketing, Fares & Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Korean Air,"Ticketing, Fares &amp; Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Pak International,"Ticketing, Fares & Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Japan Airlines,Check-in &amp; Boarding,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Seychelles,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Air Seychelles,Check-in &amp; Boarding,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Seychelles,Flight Delays,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Seychelles,"Ticketing, Fares &amp; Refunds",4,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airline,Malindo Airways,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airline,Malindo Airways,Check-in & Boarding,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airline,Malindo Airways,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,China Eastern Airlines,Baggage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,China Eastern Airlines,Staff / Crew Behavior,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,China Eastern Airlines,"Ticketing, Fares & Refunds",14,NA,NA,14,14,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,14,NA,NA,NA
+Airline,Bhutan Airlines,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Bhutan Airlines,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Bhutan Airlines,"Ticketing, Fares &amp; Refunds",1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Uzbekistan Airways,Baggage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Uzbekistan Airways,Other,2,NA,1,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Uzbekistan Airways,"Ticketing, Fares & Refunds",3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airline,Uzbekistan Airways,"Ticketing, Fares &amp; Refunds",2,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airline,Air Austral,Baggage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Austral,Flight Delays,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Air Austral,"Ticketing, Fares &amp; Refunds",1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,SpiceJet,NA,67,NA,NA,67,67,NA,NA,67,NA,NA,NA,NA,NA,NA,66,1,62,67,67,NA,NA,NA
+Airline,Swiss Air,Baggage,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airline,Swiss Air,Check-in &amp; Boarding,5,NA,NA,1,1,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airline,Swiss Air,Flight Delays,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airline,Swiss Air,Other,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Helicopter - General Aviation,NA,Heritage Aviation,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Helicopter - General Aviation,NA,Bharat Hotels Ltd,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Helicopter - General Aviation,NA,Pawan Hans Helicopters,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Helicopter - General Aviation,NA,Air Charter Services,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Helicopter - General Aviation,NA,Himalayan Heli Services,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Helicopter - General Aviation,NA,Thumby Aviation,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Helicopter - General Aviation,NA,Aryan Aviation,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Helicopter - General Aviation,NA,Trans Bharat Aviation,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Helicopter - General Aviation,NA,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Helicopter - General Aviation,NA,Aman Aviation &amp; Aerospace Sol.,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+DGCA,DGCA,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+DGCA,DGCA,Flying School,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+DGCA,DGCA,Manufacturer,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+DGCA,DGCA,MRO,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Customs,Port Blair,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Port Blair,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Bengaluru,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Bengaluru,Departure,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Bengaluru,Other,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Customs,Ranchi,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Agra,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Patna,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Patna,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Patna,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Lucknow,Arrival,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Mumbai,Departure,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,1,6,6,NA,NA,NA
+Customs,Mumbai,Other,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Customs,Pune,Arrival,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Pune,Other,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Customs,Indore,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Aizwal,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Amritsar,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Amritsar,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Guwahati,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Guwahati,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Agartala,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Delhi,Departure,5,NA,1,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Customs,Delhi,Other,22,1,NA,21,21,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,22,NA,NA,NA
+Customs,Aurangabad,Arrival,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Thiruvananthapuram,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Varanasi,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Varanasi,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Kochi,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Kochi,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Kanpur,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Hyderabad,Arrival,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Hyderabad,Departure,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Hyderabad,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Tiruchirappalli,Arrival,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Tiruchirappalli,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Coimbatore,Arrival,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Ahmedabad,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Kolkata,Arrival,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Kolkata,Departure,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Kolkata,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Customs,Jaipur,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Customs,Jaipur,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Jaipur,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Jaipur,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Chennai,Departure,10,NA,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10,NA,NA,NA
+Customs,Chennai,Other,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Customs,Leh,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Goa,Departure,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Customs,Goa,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Customs,Chandigarh,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Thiruvananthapuram,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Chandigarh,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Vijayawada,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Vijayawada,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Jaipur,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Jaipur,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Lilabari,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Kolkata,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Immigration,Delhi,Other,19,NA,NA,19,19,NA,NA,19,NA,NA,NA,NA,NA,NA,1,NA,1,19,19,NA,NA,NA
+Immigration,Ahmedabad,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Ahmedabad,Departure,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Immigration,Surat,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Immigration,Visakhapatnam,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Visakhapatnam,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Lucknow,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Calicut,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Kochi,Arrival,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Immigration,Kochi,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Mangalore,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Bhopal,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Bengaluru,Arrival,8,2,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Immigration,Bengaluru,Departure,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Immigration,Bengaluru,Other,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,1,NA,1,5,5,NA,NA,NA
+Immigration,Varanasi,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Dibrugarh,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Amritsar,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Amritsar,Departure,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Hyderabad,Arrival,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Immigration,Hyderabad,Departure,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+BCAS,BCAS,NA,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,3,NA,3,3,3,NA,NA,NA
+Airport,Hindon Airport,Air Conditioning / Maintenance,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Hindon Airport,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airport,Hindon Airport,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Hyderabad,NA,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,2,1,2,3,3,NA,NA,NA
+Airport,Hyderabad,Person With Disability,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Hyderabad,Staff / Crew behavoiur,11,NA,NA,11,11,NA,1,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airport,Thiruvananthapuram,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Thiruvananthapuram,Seating / Waiting Area,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Thiruvananthapuram,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Thiruvananthapuram,Staff / Crew behavoiur,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Thiruvananthapuram,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Delhi,NA,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,2,NA,2,2,2,NA,NA,NA
+Airport,Varanasi,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Varanasi,Baggage / Lost & Found ,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,1,NA,1,5,5,NA,NA,NA
+Airport,Varanasi,Baggage / Lost &amp; Found ,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Varanasi,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Varanasi,Seating / Waiting Area,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Varanasi,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Kadapa,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Kadapa,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bhubaneswar,NA,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,3,NA,2,3,3,NA,NA,NA
+Airport,Bhubaneswar,Air Conditioning / Maintenance,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Bhubaneswar,Baggage / Lost & Found ,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,1,NA,NA,7,7,NA,NA,NA
+Airport,Bhubaneswar,Baggage / Lost &amp; Found ,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Bhubaneswar,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bhubaneswar,Seating / Waiting Area,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Bhubaneswar,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bhubaneswar,Staff / Crew behavoiur,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Bhubaneswar,Trolly / Ameniites / Buggy / Wifi,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Malda,NA,15,NA,NA,15,15,NA,NA,15,NA,NA,NA,NA,NA,NA,15,NA,14,15,15,NA,NA,NA
+Airport,Malda,Air Conditioning / Maintenance,15,NA,2,6,6,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,2,15,15,NA,NA,NA
+Airport,Malda,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airport,Malda,Baggage / Lost &amp; Found ,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Malda,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airport,Akola,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Akola,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kandla,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kandla,Other,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,2,NA,2,4,4,NA,NA,NA
+Airport,Kandla,Taxi / Parking,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kandla,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Calicut,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Calicut,Air Conditioning / Maintenance,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Calicut,Retail Shops / Food &amp; Beverage,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Calicut,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Calicut,Taxi / Parking,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Calicut,Trolly / Ameniites / Buggy / Wifi,5,NA,NA,4,4,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Nasik,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Nasik,Staff / Crew behavoiur,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Nagpur,NA,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,2,NA,2,2,2,NA,NA,NA
+Airport,Nagpur,Air Conditioning / Maintenance,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Nagpur,Cleanliness / Hygiene,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Nagpur,Other,12,NA,NA,12,12,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,12,NA,NA,NA
+Airport,Nagpur,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Nagpur,Signages / Flight Display,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Nagpur,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Aurangabad,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airport,Aurangabad,Other,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Aurangabad,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Aurangabad,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Madurai,Baggage / Lost & Found ,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Madurai,Baggage / Lost &amp; Found ,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Madurai,Cleanliness / Hygiene,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Madurai,Other,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Madurai,Retail Shops / Food & Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Madurai,Signages / Flight Display,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Madurai,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Madurai,Taxi / Parking,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Madurai,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Rajkot,Baggage / Lost &amp; Found ,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Rajkot,Cleanliness / Hygiene,7,NA,NA,6,6,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Rajkot,Other,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Rajkot,Retail Shops / Food &amp; Beverage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Rajkot,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Rajkot,Staff / Crew behavoiur,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Rajkot,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bagdogra,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Bagdogra,Baggage / Lost & Found ,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Bagdogra,Baggage / Lost &amp; Found ,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bagdogra,Retail Shops / Food &amp; Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Bagdogra,Seating / Waiting Area,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Bagdogra,Staff / Crew behavoiur,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Durgapur,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Durgapur,Taxi / Parking,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Gaya,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Gaya,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Gaya,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Gaya,Taxi / Parking,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,MIHAN,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Dimapur,Cleanliness / Hygiene,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Dimapur,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Dimapur,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Lucknow,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airport,Lucknow,Baggage / Lost &amp; Found ,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Lucknow,Person With Disability,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Lucknow,Retail Shops / Food &amp; Beverage,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Lucknow,Signages / Flight Display,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Lucknow,Staff / Crew behavoiur,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Kochi,Baggage / Lost &amp; Found ,4,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Kochi,Retail Shops / Food & Beverage,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Kochi,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kochi,Staff / Crew behavoiur,4,NA,NA,4,4,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Kochi,Taxi / Parking,3,NA,NA,3,3,NA,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Pondicherry,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Pondicherry,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Mumbai,NA,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,4,NA,3,4,4,NA,NA,NA
+Airport,Mumbai,Air Conditioning / Maintenance,14,NA,NA,11,11,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,3,14,14,NA,NA,NA
+Airport,Mumbai,Retail Shops / Food &amp; Beverage,6,NA,NA,4,4,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,1,6,6,NA,NA,NA
+Airport,Mumbai,Signages / Flight Display,19,NA,NA,19,19,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,19,NA,NA,NA
+Airport,Shillong,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kolhapur,Baggage / Lost & Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Kolhapur,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Kolhapur,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kolhapur,Taxi / Parking,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Visakhapatnam,Air Conditioning / Maintenance,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Visakhapatnam,Baggage / Lost &amp; Found ,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Visakhapatnam,Person With Disability,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Visakhapatnam,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Visakhapatnam,Seating / Waiting Area,11,NA,NA,11,11,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airport,Visakhapatnam,Taxi / Parking,17,NA,NA,17,17,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,17,NA,NA,NA
+Airport,Amritsar,Air Conditioning / Maintenance,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Amritsar,Baggage / Lost & Found ,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Amritsar,Baggage / Lost &amp; Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Amritsar,Other,10,NA,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,1,10,10,NA,NA,NA
+Airport,Amritsar,Retail Shops / Food & Beverage,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Amritsar,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Amritsar,Signages / Flight Display,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Amritsar,Staff / Crew behavoiur,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Amritsar,Trolly / Ameniites / Buggy / Wifi,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Salem,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Leh,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Leh,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Leh,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Leh,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Leh,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Leh,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Imphal,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Imphal,Baggage / Lost &amp; Found ,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Imphal,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Rajahmundry,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Rajahmundry,Cleanliness / Hygiene,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Rajahmundry,Other,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Rajahmundry,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Rajahmundry,Seating / Waiting Area,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Rajahmundry,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Patna,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airport,Patna,Baggage / Lost &amp; Found ,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Patna,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Patna,Retail Shops / Food & Beverage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Patna,Retail Shops / Food &amp; Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,NA,NA,NA
+Airport,Agra,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Agra,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Agra,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Agra,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Agra,Retail Shops / Food & Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Agra,Taxi / Parking,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Kalaburgi (Gulbarga),Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jodhpur,Baggage / Lost &amp; Found ,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jodhpur,Other,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Jodhpur,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jodhpur,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jodhpur,Trolly / Ameniites / Buggy / Wifi,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Gorakhpur,Baggage / Lost &amp; Found ,3,NA,NA,2,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Ludhiana,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Ludhiana,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Dehradun,Cleanliness / Hygiene,2,NA,1,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Dehradun,Other,12,NA,NA,12,12,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,12,NA,NA,NA
+Airport,Dehradun,Retail Shops / Food &amp; Beverage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Dehradun,Seating / Waiting Area,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Dehradun,Trolly / Ameniites / Buggy / Wifi,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Port Blair,Cleanliness / Hygiene,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Port Blair,Other,9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airport,Port Blair,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Port Blair,Retail Shops / Food &amp; Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Port Blair,Seating / Waiting Area,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Port Blair,Signages / Flight Display,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Port Blair,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Muzzafarpur,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Muzzafarpur,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kannur International Airport,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kannur International Airport,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kannur International Airport,Taxi / Parking,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Kannur International Airport,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Ahmedabad,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Ahmedabad,Baggage / Lost &amp; Found ,9,NA,NA,1,1,NA,NA,9,NA,NA,NA,NA,NA,NA,1,NA,NA,9,9,NA,NA,NA
+Airport,Ahmedabad,Person With Disability,8,NA,NA,6,6,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Ahmedabad,Signages / Flight Display,15,NA,NA,15,15,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,15,NA,NA,NA
+Airport,Bhuj,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jaipur,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airport,Jaipur,Air Conditioning / Maintenance,8,NA,NA,6,6,1,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Jaipur,Baggage / Lost & Found ,11,NA,NA,11,11,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airport,Jaipur,Baggage / Lost &amp; Found ,3,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Jaipur,Person With Disability,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Jaipur,Retail Shops / Food & Beverage,10,NA,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10,NA,NA,NA
+Airport,Jaipur,Retail Shops / Food &amp; Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Jaipur,Seating / Waiting Area,15,1,NA,13,13,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,15,NA,NA,NA
+Airport,Jaipur,Signages / Flight Display,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Jaipur,Staff / Crew behavoiur,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Jaipur,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bengaluru,Person With Disability,6,NA,NA,4,4,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,1,6,6,NA,NA,NA
+Airport,Bengaluru,Retail Shops / Food &amp; Beverage,4,NA,NA,2,2,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Bengaluru,Seating / Waiting Area,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Bengaluru,Signages / Flight Display,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Bengaluru,Taxi / Parking,23,NA,NA,23,23,NA,NA,23,NA,NA,NA,NA,NA,NA,1,NA,1,23,23,NA,NA,NA
+Airport,Vijayawada,Air Conditioning / Maintenance,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Vijayawada,Baggage / Lost & Found ,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Vijayawada,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airport,Vijayawada,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Vijayawada,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Vijayawada,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Vijayawada,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Ranchi,Air Conditioning / Maintenance,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Ranchi,Baggage / Lost & Found ,9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airport,Ranchi,Baggage / Lost &amp; Found ,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Ranchi,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Ranchi,Retail Shops / Food & Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Ranchi,Seating / Waiting Area,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Ranchi,Trolly / Ameniites / Buggy / Wifi,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Sholapur,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Indore,Air Conditioning / Maintenance,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Indore,Baggage / Lost & Found ,6,NA,NA,5,5,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Indore,Retail Shops / Food &amp; Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Indore,Seating / Waiting Area,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Indore,Signages / Flight Display,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Indore,Staff / Crew behavoiur,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Indore,Trolly / Ameniites / Buggy / Wifi,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Vadodara,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Vadodara,Baggage / Lost &amp; Found ,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Vadodara,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Vadodara,Retail Shops / Food & Beverage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Vadodara,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Vadodara,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Vadodara,Taxi / Parking,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Vadodara,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Silchar,Baggage / Lost & Found ,14,NA,NA,14,14,NA,NA,14,NA,NA,NA,NA,NA,NA,1,NA,1,14,14,NA,NA,NA
+Airport,Silchar,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Silchar,Other,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Silchar,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Silchar,Trolly / Ameniites / Buggy / Wifi,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Porbandar,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Porbandar,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Allahabad,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Allahabad,Taxi / Parking,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Allahabad,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Raipur,Baggage / Lost &amp; Found ,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Raipur,Signages / Flight Display,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Raipur,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Tuticorin,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tuticorin,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tuticorin,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tuticorin,Taxi / Parking,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Jaisalmer,Staff / Crew behavoiur,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kanpur,Other,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Kanpur,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kanpur,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kanpur,Taxi / Parking,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kanpur,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Chandigarh,Air Conditioning / Maintenance,2,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Chandigarh,Baggage / Lost &amp; Found ,4,NA,NA,1,1,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Chandigarh,Cleanliness / Hygiene,9,NA,NA,5,5,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airport,Chandigarh,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Gwalior,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Gwalior,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Gwalior,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Bilaspur,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Pune,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,1,1,1,NA,NA,NA
+Airport,Pune,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Pune,Staff / Crew behavoiur,6,NA,NA,5,5,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Pune,Trolly / Ameniites / Buggy / Wifi,10,NA,NA,9,9,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,1,10,10,NA,NA,NA
+Airport,Udaipur,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Udaipur,Baggage / Lost &amp; Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Udaipur,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Udaipur,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Udaipur,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Udaipur,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Udaipur,Trolly / Ameniites / Buggy / Wifi,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Tirupati,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tirupati,Baggage / Lost &amp; Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Tirupati,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Tirupati,Retail Shops / Food & Beverage,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,NA,NA,NA
+Airport,Tirupati,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tirupati,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tirupati,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airport,Belgaum,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Belgaum,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Belgaum,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Belgaum,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Belgaum,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Belgaum,Taxi / Parking,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Belgaum,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Guwahati,Air Conditioning / Maintenance,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Guwahati,Baggage / Lost & Found ,18,NA,NA,18,18,NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,1,18,18,NA,NA,NA
+Airport,Guwahati,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Guwahati,Cleanliness / Hygiene,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Guwahati,Retail Shops / Food & Beverage,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Guwahati,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Chennai,Baggage / Lost &amp; Found ,26,NA,NA,9,9,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,26,NA,NA,NA
+Airport,Chennai,Person With Disability,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Chennai,Retail Shops / Food &amp; Beverage,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Hubli,Air Conditioning / Maintenance,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Hubli,Cleanliness / Hygiene,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Hubli,Other,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Hubli,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Aizwal,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Aizwal,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Aizwal,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Darbhanga,Baggage / Lost &amp; Found ,3,NA,NA,1,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Darbhanga,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Darbhanga,Other,4,1,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Darbhanga,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Darbhanga,Seating / Waiting Area,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Darbhanga,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Darbhanga,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Darbhanga,Taxi / Parking,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jorhat,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Surat,Baggage / Lost & Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Surat,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Surat,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Surat,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Coimbatore,Air Conditioning / Maintenance,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Coimbatore,Baggage / Lost & Found ,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Airport,Coimbatore,Baggage / Lost &amp; Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Coimbatore,Cleanliness / Hygiene,13,NA,NA,13,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA,NA
+Airport,Coimbatore,Other,20,NA,NA,20,20,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,2,20,20,NA,NA,NA
+Airport,Coimbatore,Retail Shops / Food & Beverage,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Coimbatore,Retail Shops / Food &amp; Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Coimbatore,Seating / Waiting Area,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Coimbatore,Signages / Flight Display,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Coimbatore,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Coimbatore,Taxi / Parking,10,NA,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10,NA,NA,NA
+Airport,Coimbatore,Trolly / Ameniites / Buggy / Wifi,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,NA,NA,NA
+Airport,Pantnagar,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Pantnagar,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jharsuguda,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tanjavur,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tezpur,Air Conditioning / Maintenance,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tezpur,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airport,Tezpur,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jammu,Air Conditioning / Maintenance,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jammu,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jammu,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jammu,Cleanliness / Hygiene,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Jammu,Other,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Jammu,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jammu,Seating / Waiting Area,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Jammu,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kailashahar,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Khajuraho,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Khajuraho,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bhopal,NA,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,1,NA,NA,NA
+Airport,Bhopal,Retail Shops / Food & Beverage,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Bhopal,Seating / Waiting Area,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Bhopal,Staff / Crew behavoiur,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Bhopal,Taxi / Parking,10,NA,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10,NA,NA,NA
+Airport,Dibrugarh,Air Conditioning / Maintenance,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Dibrugarh,Baggage / Lost &amp; Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Dibrugarh,Retail Shops / Food & Beverage,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Dibrugarh,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Dibrugarh,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Dibrugarh,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Dibrugarh,Staff / Crew behavoiur,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Dibrugarh,Taxi / Parking,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Agartala,Air Conditioning / Maintenance,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Agartala,Baggage / Lost & Found ,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Agartala,Other,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Agartala,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Agartala,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tiruchirappalli,Baggage / Lost & Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Tiruchirappalli,Baggage / Lost &amp; Found ,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Tiruchirappalli,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tiruchirappalli,Seating / Waiting Area,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Tiruchirappalli,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Tiruchirappalli,Staff / Crew behavoiur,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Airport,Tiruchirappalli,Taxi / Parking,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Tiruchirappalli,Trolly / Ameniites / Buggy / Wifi,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Goa,Baggage / Lost & Found ,11,NA,NA,11,11,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airport,Goa,Baggage / Lost &amp; Found ,3,NA,NA,1,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Goa,Person With Disability,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Goa,Signages / Flight Display,9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Airport,NA,NA,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,2,NA,2,2,2,NA,NA,NA
+Airport,Bathinda,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kolkata,Air Conditioning / Maintenance,18,NA,NA,17,17,NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,18,NA,NA,NA
+Airport,Kolkata,Person With Disability,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Kolkata,Retail Shops / Food &amp; Beverage,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Kolkata,Signages / Flight Display,16,NA,NA,16,16,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,1,16,16,NA,NA,NA
+Airport,Srinagar,Baggage / Lost & Found ,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Srinagar,Baggage / Lost &amp; Found ,11,NA,NA,NA,NA,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Airport,Srinagar,Other,15,NA,NA,15,15,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,1,15,15,NA,NA,NA
+Airport,Srinagar,Person With Disability,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Srinagar,Retail Shops / Food & Beverage,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Airport,Srinagar,Seating / Waiting Area,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Srinagar,Trolly / Ameniites / Buggy / Wifi,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Airport,Jabalpur,Baggage / Lost &amp; Found ,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jabalpur,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Jabalpur,Retail Shops / Food & Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jabalpur,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jabalpur,Taxi / Parking,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airport,Mysore,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Mysore,Seating / Waiting Area,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Mysore,Taxi / Parking,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Mysore,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Bhavnagar,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,NA,NA,NA
+Airport,Bhavnagar,Taxi / Parking,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Shirdi Airport,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Shirdi Airport,Retail Shops / Food &amp; Beverage,2,NA,NA,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Airport,Shirdi Airport,Trolly / Ameniites / Buggy / Wifi,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Mangalore,Baggage / Lost & Found ,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Airport,Mangalore,Cleanliness / Hygiene,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Mangalore,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Mangalore,Seating / Waiting Area,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Mangalore,Staff / Crew behavoiur,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Kangra,Taxi / Parking,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA
+Airport,Jamnagar,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jamnagar,Retail Shops / Food &amp; Beverage,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Airport,Jamnagar,Signages / Flight Display,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Calicut,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Calicut,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Mumbai,Boarding Gate,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Mumbai,Other,20,NA,NA,19,19,NA,NA,20,NA,NA,NA,NA,NA,NA,1,NA,1,20,20,NA,NA,NA
+Security,Mumbai,Terminal Entry,14,NA,NA,14,14,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,14,NA,NA,NA
+Security,Gaya,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Coimbatore,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Coimbatore,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Vadodara,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Vadodara,Security Check,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Security,Indore,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Indore,Security Check,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Indore,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Silchar,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Silchar,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Vijayawada,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Vijayawada,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Chennai,Boarding Gate,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Chennai,Other,11,NA,NA,11,11,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Security,Mysore,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Mysore,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Hubli,Terminal Entry,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Bagdogra,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Bagdogra,Security Check,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Security,Bagdogra,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Chandigarh,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Chandigarh,Security Check,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Security,Chandigarh,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Delhi,Boarding Gate,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Security,Patna,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Patna,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Patna,Terminal Entry,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Malda,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Jabalpur,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Jabalpur,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Tiruchirappalli,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Belgaum,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Belgaum,Security Check,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Belgaum,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Visakhapatnam,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Visakhapatnam,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Aurangabad,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Aurangabad,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Aurangabad,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Leh,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Bhubaneswar,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Bhubaneswar,Security Check,11,1,NA,10,10,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Security,Bhubaneswar,Terminal Entry,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Varanasi,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Varanasi,Security Check,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Security,Varanasi,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Pune,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Pune,Terminal Entry,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Udaipur,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Udaipur,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Ranchi,Security Check,9,NA,NA,9,9,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,NA,NA,NA
+Security,Ranchi,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Jammu,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Jammu,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Jammu,Terminal Entry,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Kadapa,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Kadapa,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Jodhpur,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Jodhpur,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Amritsar,Security Check,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Security,lmphal,Security Check,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Goa,Other,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,1,NA,1,7,7,NA,NA,NA
+Security,Goa,Terminal Entry,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Bhopal,Other,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Bhopal,Security Check,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Security,Bhopal,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Thiruvananthapuram,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Thiruvananthapuram,Security Check,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Security,Thiruvananthapuram,Terminal Entry,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Madurai,Security Check,6,NA,NA,6,6,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,NA,NA,NA
+Security,Srinagar,Security Check,5,NA,NA,5,5,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,NA,NA,NA
+Security,Srinagar,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Lucknow,Other,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Security,Lucknow,Security Check,19,NA,NA,19,19,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,19,NA,NA,NA
+Security,Lucknow,Terminal Entry,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Kolhapur,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Kochi,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Kochi,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Kochi,Security Check,11,NA,NA,11,11,1,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,NA,NA,NA
+Security,Kochi,Terminal Entry,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Dehradun,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Dehradun,Security Check,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Dehradun,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Raipur,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Jaipur,Security Check,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Security,Jaipur,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Dibrugarh,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Dibrugarh,Security Check,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Security,Gwalior,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Port Blair,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Port Blair,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Pantnagar,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Surat,Other,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Surat,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Shimla,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Nagpur,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Nagpur,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Bengaluru,Boarding Gate,4,NA,NA,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA
+Security,Rajkot,Security Check,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Agartala,Security Check,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Agartala,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Mangalore,Security Check,7,NA,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,NA,NA,NA
+Security,Mangalore,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Tirupati,Security Check,3,NA,NA,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,NA,NA,NA
+Security,Tirupati,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Guwahati,Boarding Gate,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Guwahati,Other,2,NA,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA
+Security,Guwahati,Terminal Entry,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Kolkata,Boarding Gate,1,NA,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA
+Security,Kolkata,Other,8,NA,NA,8,8,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Security,Kolkata,Terminal Entry,8,1,NA,7,7,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,NA,NA,NA
+Airline,Air India,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,GoAir,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,IndiGo,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,Jet Airways,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,SpiceJet,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,Vistara,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Immigration,Mumbai,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,Chennai,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,Delhi,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,Kolkata,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,Mangalore,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,Mumbai,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,NA,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,Baggage,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,Check-in & Boarding,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,Flight Delays,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,Meal,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,Other,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,Staff / Crew Behavior,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,"Ticketing, Fares & Refunds",37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airline,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Helicopter - General Aviation,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Helicopter - General Aviation,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DGCA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Airport,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
